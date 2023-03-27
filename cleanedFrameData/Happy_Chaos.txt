@@ -1,0 +1,33 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/5/4/7/-1/0///
+5K/All/6/3/12/-3/1///
+cS/All/7/6/10/+1/3///
+fS/All/10/7/21/-14/2///
+5D/High/20/3/26/-15/2///
+5[D]/High/28/3/26/-10/4///
+2P/All/5/2/10/-2/0///
+2K/Low/7/4/12/-4/1///
+2S/Low/11/3/18/-7/2///
+2D/Low/10/3/19/-8/2///
+6P/All/9/5/25/-16/2//1~3 Upper Body 4~13 Above Knees/
+6K/Low/16/5/16/-7/2///
+6S/All/12/7/24/-14/3///
+jP/High/5/2/18/-/0///
+jK/High/7/3/18/-/1///
+jS/High/10/4/23/-/2///
+jD/High/11/4/21/-/2///
+j2K/High/10/5/16 [11]/-/2///
+H/-/-/-/Total 12/-/-/At the Ready//
+236S/All/9/3/13/+3/4/At the Ready//
+236S H/All/1/2//+23/1/Fire//
+214S/-/-/-/Total 18/-/-/Steady Aim//
+214S H/Guard Crush (43f) [All]/1/2/43/More info/3/Fire//
+236S 2H/-/-/-/0 [9]/-/-/Cancel Aim//
+214S 214S/-/-/-/Total 16/-/-/Cancel Aim//
+22P/-/23/-/23~77 total/-/-/Reload//
+214P/-/-/-/46 total/-/-/Focus//
+214K/-/-/-/35 total/-/-/Roll/4~15 Upper Body/
+236K/-/10/180 [45]/43 total/-/-/Scapegoat/10~30F Airborne/
+236P/-/-/-/29 total/-/-/Curse//
+632146S/All/13+(193 Flash)+7///-25/2×18, 4/Deus Ex Machina//
+214214P/-/5/(52 Flash)/6/-/-/Super Focus//

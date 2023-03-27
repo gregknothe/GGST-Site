@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="/css.css">
+
+<body style="background-color: #202020;">
+</body>
+
+<div class="topnav">
+    <a class="topnavTitle">GGST FTC</a>
+    <a class="topnavButton">Contact</a>
+    <a class="topnavButton">About</a>
+    <a href="/main.html" class="topnavButton">Home</a>
+</div>
+
+<hr class="lines" style="position: relative; top: 30px">
+
+<header class="mainTitle">
+    <h1>
+        Axl Low
+    </h1>
+</header>
+
+<hr class="lines" style="position: relative; bottom: 30px">
+
+<!-- Search Functionalty -->
+<script>
+  function myFunction3() {
+    var input, filter, table, tr, td, i;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    table = document.getElementById("myTable");
+    tr = table.getElementsByTagName("tr");
+    move = filter.replaceAll(" ","");
+    move1 = move.split(">")[0];
+    move2 = move.split(">")[1];
+    
+    for (i = 0; i < tr.length; i++) {
+      if (move.includes("F") && move.includes("FS")==0) {
+          td = tr[i].getElementsByTagName("td")[4];
+          if (td) {
+            if (td.innerHTML.toUpperCase().localeCompare(move) == 0) {
+              tr[i].style.display = "";
+            } else {
+              tr[i].style.display = "none";
+            }
+          }
+      }
+      else {
+        if (!move2) {
+          td = tr[i].getElementsByTagName("td")[0];
+          if (td) {
+            if (td.innerHTML.toUpperCase().indexOf(move1) > -1) {
+              tr[i].style.display = "";
+            } else {
+              tr[i].style.display = "none";
+            }
+          }
+        }
+
+
+        else {
+          td = tr[i].getElementsByTagName("td")[0];
+          td2 = tr[i].getElementsByTagName("td")[2];
+          if (td) {
+            if (td.innerHTML.toUpperCase().indexOf(move1) > -1 && td2.innerHTML.toUpperCase().indexOf(move2) > -1) {
+              tr[i].style.display = "";
+            } else {
+              tr[i].style.display = "none";
+            }
+          }
+        }
+      }
+      
+    }
+  }
+</script>
+
+<div class="inputSection">
+  <a class="inputText">
+    Input move, string, or gap: 
+  </a>
+
+  <input 
+    type="text" 
+    id="myInput" 
+    onkeyup="myFunction3()" 
+    placeholder="" 
+    title="Move Lookup"
+    class="inputBox">
+
+    <br>
+    <div class="exampleText">
+      ex. "5K" or "5K > 6H" or "> 6H" or "4f"
+    </div>
+</div>
+
+<!-- Frame Trap Data Frame (Generated in Pyton)-->

@@ -1,0 +1,36 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/5/4/8/-2/0//none/
+5K/All/7/6/10/-4/1//none/
+cS/All/7/6/10/+1/3//none/
+fS/All/11/6/17/-9/2//none/
+5H/All/10/3(3)2/23/-6/4//none/
+2P/All/5/4/9/-3/0//none/
+2K/Low/6/3/12/-3/1//F6~20 Low-profile/
+2S/All/9/7/22/-15/2//none/
+2H/All/15/6/18/-5/4//none/
+jP/High/6/4/6//0//none/
+jK/High/7/6/12//1//none/
+jS/High/11/5/21/+3 (IAD)/2//none/
+jH/High/11/33/32/+5 (IAD)/2//none/
+jD/All/21/-/Total 44//1//none/
+6P/All/10/6/20/-12/2//1~2 Upper Body 3~12 Above Knees/
+6H/All/819/2(9)11/14/-6/3, 4//none/
+2D/Low/10/15/18/-19/2//F10~33 Low-profile/
+5D/High/20/3/26/-15/2//none/
+5[D]/High/28/3/26/-10/2//none/
+236P/-/10//Total 25///Summon Servant/none/
+236[P]/-///Total 14///Summon Servant/none/
+2P (near Servant)/-///Total 14///Pick Up Servant/none/
+"6P/6K/6S/6H/6D while holding Servant"/All/12//Total 27/+5/0/Throw Servant/none/
+D while holding Servant/-///Total 11///Release Servant/none/
+214P/-/3+7//Total 19///Recover Servant/none/
+214K/All/3+9/6/Total 23/+15/2/Attack Command/none/
+214S/-/3+1/34/Total 24///Defend Command/none/
+S while holding Servant/-/3+1/28/Total 24///Held Defend Command/none/
+214H/All/3+180+26/19/Total 24//3/Countdown/none/
+236K/All/15/4/25/-12/3/Servant Shoot/none/
+Bounced Servant/All/5+1////0/Servant/none/
+Launched Servant/All/5+1///-6/0/Servant/none/
+632146P/Throw/10+1/2/58/-//Forever Elysion Driver/1~12F All, 1~55F Throw/
+236236S/-/3//12/See Notes//Cheer Servant On (S)/Jack-O: None Servants: 4~14F Full/
+236236H/-/3//12/See Notes//Cheer Servant On (H)/Jack-O: None Servants: 4~14F Full/

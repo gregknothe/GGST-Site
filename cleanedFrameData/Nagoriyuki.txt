@@ -1,0 +1,62 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/Mid/5/3/9/0/1///
+5K/Mid/7/2/12/0/2//3~21 Low crush/
+cS/Mid/7/6/10/+3/4///
+fS Level 1/Mid/16/3/28/-17/2///
+fS Level 2/Mid/14/3/28/-17/2///
+fS Level 3/Mid/12/3/28/-17/2///
+fS Level BR/Mid/12/3/28/-17/2///
+fSS Level 1/Mid/13/3/19/-8/2///
+fSS Level 2/Mid/13/3/19/-8/2///
+fSS Level 3/Mid/13/3/19/-8/2///
+fSS Level BR/Mid/13/3/19/-8/2///
+fSSS Level 1/Mid/14/6/35/-22/4///
+fSSS Level 2/Mid/14/6/35/-22/4///
+fSSS Level 3/Mid/14/6/35/-22/4///
+fSSS Level BR/Mid/14/6/35/-22/4///
+5H Level 1/Mid/20/6/27/-14/4///
+5H Level 2/Mid/18/6/27/-14/4///
+5H Level 3/Mid/16/6/27/-14/4///
+5H Level BR/Mid/16/6/27/-14/4///
+2P/Mid/6/3/11/-2/1///
+2K/Low/7/5/8/-1/1///
+2S Level 1/Low/12/4/21/-11/2///
+2S Level 2/Low/11/4/21/-11/2///
+2S Level 3/Low/10/4/21/-11/2///
+2S Level BR/Low/10/4/21/-11/2///
+2H Level 1/Mid/19/7/29/-17/4///
+2H Level 2/Mid/17/7/29/-17/4///
+2H Level 3/Mid/15/7/29/-17/4///
+2H Level BR/Mid/15/7/29/-17/4///
+jP/High/7/3/12//0///
+jK/High/7/3/19//1///
+jS Level 1/High/13/3/20//2///
+jS Level 2/High/12/3/20//2///
+jS Level 3/High/11/3/20//2///
+jS Level BR/High/11/3/20//2///
+jH Level 1/High/16/4/23//3///
+jH Level 2/High/15/4/23//3///
+jH Level 3/High/14/4/23//3///
+jH Level BR/High/14/4/23//3///
+jD Level 1/High/15/3/20//3///
+jD Level 2/High/13/3/20//3///
+jD Level 3/High/11/3/20//3///
+jD Level BR/High/11/3/20//3///
+6P/Mid/12/5/15/-6/2//1~3F Upper Body 4~17F Above Knee/
+6K/Low/15/3/15/-4/2///
+6H Level 1/Mid/17/6/30/-17/4///
+6H Level 2/Mid/16/6/30/-17/4///
+6H Level 3/Mid/15/6/30/-17/4///
+6H Level BR/Mid/15/6/30/-17/4///
+2D/Low/12/3/18/-7/2///
+5D/High/20/3/26/-15/2///
+5[D]/High/28/3/26/-10/4///
+236S/Mid/18/9/Total 39/+5/2/Zarameyuki//
+236K//-//Total 25///Forward Fukyo/1~25F Above Chest/
+214K//-//Total 16///Backward Fukyo/1~16F Above Chest/
+214H/Mid/14/5/17/-3/4/Kamuriyuki//
+623H/Mid/11/3/21/-7/3/Shizuriyuki (1)/1-13F Upper Body/
+623HH/Mid/10/6/29/-16/4/Shizuriyuki (2)//
+623P/Ground Throw/7/2/48///Bloodsucking Universe/1~8F Throw/
+632146S/Mid/7+(173 Flash)+2/2/54/-37/3/Wasureyuki/1~10F Full/
+632146H/Mid/11+(58 Flash)+10/6/80/-66/4/Zansetsu/1~26F Full/

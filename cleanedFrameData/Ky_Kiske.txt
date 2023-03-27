@@ -1,0 +1,50 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/5/4/7/-1/0///
+5K/Low/7/8/6/-2/1///
+cS/All/7/6/10/1/3///
+fS/All/12/6/13/-5/2///
+5H/All/14/6/21/-8/4///
+2P/All/5/4/8/-2/0///
+2K/Low/6/4/10/-2/1///
+2S/Low/10/2/20/-8/2///
+2H/All/11/14/28/-13/34///
+jP/High/6/3/9//0///
+jK/High/7/4/8//1///
+jS/High/7/3/21//2///
+jH/High/13/4/23/5/2///
+jD/All/13/6/15//2///
+6P/All/9/5/17/-8/2///
+6K/All/25/2/11/4/3///
+6H/All/15/4/20/-7/3///
+2D/Low/10/6/18/-10/2///
+5D/High/20/4/25/-15/2///
+5[D]/High/28/4/25/-10/2///
+236S/All/13/Until Hit/Total 46/-15/2/Stun Edge//
+DI-236S/All/13/Until Hit/Total 46/-11/2/DI-Stun Edge//
+236H/All/39/Until Hit/62/22/4/Charged Stun Edge//
+SS-236H/All/39/Until Hit/62/25/4/Charged Stun Edge//
+DI-236H/All/39/Until Hit/62/45/4/DI-Charged Stun Edge//
+j236S/All/21/Until Hit/Until Landing+10//2/Aerial S Stun Edge//
+j236H/All/21/Until Hit/Until Landing+10//2/Aerial H Stun Edge//
+623S/All/11/4/43/-33/2/S Vapor Thrust//
+DI-623S/All/11/4/43/-26/4/DI-S Vapor Thrust//
+623H/All/13/8/44/-38/2/H Vapor Thrust//
+DI-623H/All/13/6/39/-22/4/DI-H Vapor Thrust//
+j623S/All/11/4/Until Landing+12//2/Air S Vapor Thrust//
+j623H/All/13/8/Until Landing+12//2/Air H Vapor Thrust//
+236K/Low, All/5/22/26/-15/2/Stun Dipper//
+SS-236K/Low, All/5/22/26/-10/4/Stun Dipper//
+DI-236K/Low, All/5/22/26/-10/4/DI-Stun Dipper//
+214K/All/24/11/6/-2/2/Foudre Arc/The gap is +2f bigger when crouching/
+SS-214K/All/24/11/6/+5/4/Foudre Arc/The gap is +2f bigger when crouching/
+DI-214K/All/24/326/6/+7/4/DI-Foudre Arc/The gap is +2f bigger when crouching/
+214S/All/14/3/25/-8/3/Dire Eclat//
+SS-214S/All/14/3/25/-6/4/Dire Eclat//
+DI-214S/All/14/3/25/-6/4/DI-Dire Eclat//
+632146H/All/9/3×4(20)2/99/-82/4/Ride the Lightning//
+DI-632146H/All/9/2×8(20)2×3/99/-79/4/DI-Ride the Lightning//
+j632146H/All/9/3×4(20)2/99//4/Air Ride the Lightning//
+236236P/All [All (Guard Crush)]/7/Until Hit/32/10/4/Sacred Edge//
+SS-236236P/All [All (Guard Crush)]/7/Until Hit/32/26/4/Sacred Edge//
+DI-236236P/All (Guard Crush)/7/Until Hit/32/+32/4×8/DI-Sacred Edge//
+214214H/All/12/5/25/4//Dragon Install//

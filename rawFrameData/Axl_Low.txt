@@ -1,0 +1,34 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/7/6/19/-11/2 [3]///
+5K/All/6/3/11/-2/1///
+cS/All/8/6/12/-1/3///
+fS/All/10/3/19/-8/2///
+5H/All/16/4/19/-4/4///
+2P/Low/10/4/21/-13/1///
+2K/Low/5/5/11/-4/1///
+2S/All/9/10/23/-16/3 [4]///
+2H/Low/11/9/26/-18/3 [4]///
+jP/High/9/4/23//1 [2]///
+jK/High/8/3/16//1///
+jS/High/14/4/18//2 [3]///
+jH/High/12/6/25//2 [3]///
+jD/High/10/3/22//3///
+6P/All/12/5/22/-13/2//1~4F Upper Body 5~16F Above Knees/
+6K/All/11/5/25/-13/3 [4]///
+6H/High/27/9/13/-3/4///
+2D/Low/10/6/17/-9/2///
+5D/High/20/6/23/-15/2///
+5[D]/High/28/6/23/-10/4///
+[4]6S/All/24/15/29/-19~-9/3/Sickle Flash//
+[4]6S 8/All/8/16/34/-11/3/Soaring Chain Strike//
+[4]6S 2/Low/7/36 [79]/19/-6/2/Spinning Chain Strike//
+[4]6S S/All/18 [22]/10/24/-3 [+10]/3 [4]/Winter Cherry//
+41236H/Ground Throw/28/20/34///Winter Mantis//
+214S/All/24/3/21/+3/3/Rainwater//
+214H/All/14/12/29/-24/3/Snail//
+j214H/All/14/9/Until L+10/-19/3/Air Snail//
+j236H/All/9/10/Until L+7/-22/4/Axl Bomber//
+236236H/All/11+1/4, 4(24)13/26/-2/4/Sickle Storm/1~15F All/
+632146P//5+30/////One Vision//
+632146P Attack/All/8+0/1//0//One Vision//
+j632146P Attack/All/8+0/1//0//One Vision//

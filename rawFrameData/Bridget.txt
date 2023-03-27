@@ -1,0 +1,34 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/8/2/14/-6/0///
+5K/All/6/5/9/-2/1///
+cS/All/7/3, 3/13/+1/3///
+fS/All/10/5/18/-9/2///
+S/All/12/4/27/-14/3///
+5H/All/11/5/29/-17/3///
+H/All/12/4/26/-13/3///
+5D/High/20/3/26/-15/2///
+5[D]/High/28/3/26/-10/4///
+6P/All/10/6/20/-12/2//1~3F Upper Body 4~17F Above Knee/
+6K/All/12/5/13/-4/2///
+6H/All/13/9//-12/3//13~??F Airborne/
+2P/All/7/4/9/-3/0///
+2K/Low/5/3/11/-2/1///
+2S/Low/11/3, 3/20/-9/2///
+2H/All/11/11/24/-19/3///
+2D/Low/13/4/15/-6/2///
+jP/High/6/6/10/~/0///
+jK/High/7/3/18/~/1///
+jS/High/10/6/15/+3 (IAD)/2///
+jH/High/10/4/22/~/2///
+jD/High/15/18/16/+0 (IAD)/2///
+"236S/H"/All/15/21/3/-4/2/Stop and Dash//
+"214S/H"/All/130/~/Total 30/~/2/Stop and Dash//
+214K/All/20/Until Landing/0/+16 (Airborne)/3/Rolling Movement//
+623P/All/9/3333/39/-28/2/Starship/1~11F Strike/
+236K/All/10/25/9/-20~+4/2/Kick Start My Heart//
+236K P/All/7/7/19/-6/2/Brake//
+236K K/All/3/20/24/-33/2/Shoot/3~??F Airborne/
+j236K/All/25/~/15/-5/2/Roger Dive//
+63214P/"Ground / Air Throw"/26/2/28//4/Rock the Baby/4~20F Airborne/
+632146S/Mid/9+2/45/47/-29/2/Loop the Loop//
+632146H/All/9+1/~/~/+8/2/Return of the Killing Machine//

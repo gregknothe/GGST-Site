@@ -1,0 +1,357 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Input1</th>
+      <th>IMG1</th>
+      <th>Input2</th>
+      <th>IMG2</th>
+      <th>Gap</th>
+      <th>Situation</th>
+      <th>Note</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>5P</td>
+      <td>&lt;img src='5P.png'&gt;&lt;/img&gt;</td>
+      <td>8f</td>
+      <td>Ground Non-Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>5K</td>
+      <td>&lt;img src='5K.png'&gt;&lt;/img&gt;</td>
+      <td>7f</td>
+      <td>Ground Non-Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>cS</td>
+      <td>&lt;img src='cS.png'&gt;&lt;/img&gt;</td>
+      <td>11f</td>
+      <td>Ground Non-Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>fS</td>
+      <td>&lt;img src='fS.png'&gt;&lt;/img&gt;</td>
+      <td>14f</td>
+      <td>Ground Non-Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>5H</td>
+      <td>&lt;img src='5H.png'&gt;&lt;/img&gt;</td>
+      <td>15f</td>
+      <td>Ground Non-Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>2P</td>
+      <td>&lt;img src='2P.png'&gt;&lt;/img&gt;</td>
+      <td>9f</td>
+      <td>Ground Non-Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>2K</td>
+      <td>&lt;img src='2K.png'&gt;&lt;/img&gt;</td>
+      <td>10f</td>
+      <td>Ground Non-Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>2S</td>
+      <td>&lt;img src='2S.png'&gt;&lt;/img&gt;</td>
+      <td>14f</td>
+      <td>Ground Non-Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>2H</td>
+      <td>&lt;img src='2H.png'&gt;&lt;/img&gt;</td>
+      <td>15f</td>
+      <td>Ground Non-Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>jP</td>
+      <td>&lt;img src='jP.png'&gt;&lt;/img&gt;</td>
+      <td>13f</td>
+      <td>Ground Non-Jump Cancel</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>jK</td>
+      <td>&lt;img src='jK.png'&gt;&lt;/img&gt;</td>
+      <td>14f</td>
+      <td>Ground Non-Jump Cancel</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>jS</td>
+      <td>&lt;img src='jS.png'&gt;&lt;/img&gt;</td>
+      <td>18f</td>
+      <td>Ground Non-Jump Cancel</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>jH</td>
+      <td>&lt;img src='jH.png'&gt;&lt;/img&gt;</td>
+      <td>19f</td>
+      <td>Ground Non-Jump Cancel</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>jD</td>
+      <td>&lt;img src='jD.png'&gt;&lt;/img&gt;</td>
+      <td>17f</td>
+      <td>Ground Non-Jump Cancel</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>6P</td>
+      <td>&lt;img src='6P.png'&gt;&lt;/img&gt;</td>
+      <td>13f</td>
+      <td>Ground Non-Gatling</td>
+      <td>1~2F Upper Body &lt;br&gt; 3~13F Above Knees</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>6S</td>
+      <td>&lt;img src='6S.png'&gt;&lt;/img&gt;</td>
+      <td>19f</td>
+      <td>Ground Non-Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>6H</td>
+      <td>&lt;img src='6H.png'&gt;&lt;/img&gt;</td>
+      <td>13f</td>
+      <td>Ground Non-Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>14f</td>
+      <td>Ground Non-Gatling</td>
+      <td>5~24F Low Profile</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>5D</td>
+      <td>&lt;img src='5D.png'&gt;&lt;/img&gt;</td>
+      <td>24f</td>
+      <td>Ground Non-Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>5[D]</td>
+      <td>&lt;img src='5[D].png'&gt;&lt;/img&gt;</td>
+      <td>32f</td>
+      <td>Ground Non-Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>236P</td>
+      <td>&lt;img src='236P.png'&gt;&lt;/img&gt;</td>
+      <td>2f</td>
+      <td>Ground Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>623S</td>
+      <td>&lt;img src='623S.png'&gt;&lt;/img&gt;</td>
+      <td>-7f</td>
+      <td>Ground Gatling</td>
+      <td>1~11F Strike</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>623H</td>
+      <td>&lt;img src='623H.png'&gt;&lt;/img&gt;</td>
+      <td>-3f</td>
+      <td>Ground Gatling</td>
+      <td>1~14F Strike</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>j623S</td>
+      <td>&lt;img src='j623S.png'&gt;&lt;/img&gt;</td>
+      <td>17f</td>
+      <td>Ground Non-Jump Cancel</td>
+      <td>1~10F Strike</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>j623H</td>
+      <td>&lt;img src='j623H.png'&gt;&lt;/img&gt;</td>
+      <td>21f</td>
+      <td>Ground Non-Jump Cancel</td>
+      <td>1~14F Strike</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>236K</td>
+      <td>&lt;img src='236K.png'&gt;&lt;/img&gt;</td>
+      <td>-4f</td>
+      <td>Ground Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>236K-K</td>
+      <td>&lt;img src='236K-K.png'&gt;&lt;/img&gt;</td>
+      <td>10f</td>
+      <td>Ground Non-Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>j236K</td>
+      <td>&lt;img src='j236K.png'&gt;&lt;/img&gt;</td>
+      <td>18f</td>
+      <td>Ground Non-Jump Cancel</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>j236K-K</td>
+      <td>&lt;img src='j236K-K.png'&gt;&lt;/img&gt;</td>
+      <td>14f</td>
+      <td>Ground Non-Jump Cancel</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>214K</td>
+      <td>&lt;img src='214K.png'&gt;&lt;/img&gt;</td>
+      <td>14f</td>
+      <td>Ground Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>j214K</td>
+      <td>&lt;img src='j214K.png'&gt;&lt;/img&gt;</td>
+      <td>30f</td>
+      <td>Ground Non-Jump Cancel</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>j214[K]</td>
+      <td>&lt;img src='j214[K].png'&gt;&lt;/img&gt;</td>
+      <td>38f</td>
+      <td>Ground Non-Jump Cancel</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>623K</td>
+      <td>&lt;img src='623K.png'&gt;&lt;/img&gt;</td>
+      <td>-10f</td>
+      <td>Ground Gatling</td>
+      <td>1~7F Throw</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>214S</td>
+      <td>&lt;img src='214S.png'&gt;&lt;/img&gt;</td>
+      <td>19f</td>
+      <td>Ground Non-Gatling</td>
+      <td>7F til 1F before active Low Profile</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>214[S]</td>
+      <td>&lt;img src='214[S].png'&gt;&lt;/img&gt;</td>
+      <td>36f</td>
+      <td>Ground Non-Gatling</td>
+      <td>Max Hold &lt;br&gt; 7F til 1F before active Low Profile</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>41236H</td>
+      <td>&lt;img src='41236H.png'&gt;&lt;/img&gt;</td>
+      <td>28f</td>
+      <td>Ground Non-Gatling</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>632146H</td>
+      <td>&lt;img src='632146H.png'&gt;&lt;/img&gt;</td>
+      <td>-7f</td>
+      <td>Ground Gatling</td>
+      <td>1~11F Full</td>
+    </tr>
+    <tr>
+      <td>2D</td>
+      <td>&lt;img src='2D.png'&gt;&lt;/img&gt;</td>
+      <td>214214H</td>
+      <td>&lt;img src='214214H.png'&gt;&lt;/img&gt;</td>
+      <td>24f</td>
+      <td>Ground Non-Gatling</td>
+      <td>14~35F Throw, Guardpoint</td>
+    </tr>
+  </tbody>
+</table>

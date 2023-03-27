@@ -1,0 +1,39 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/5/4/8/-2/0///
+5K/Low/8/4/10/-2/1///
+cS/All/9/6/10/+1/3///
+fS/All/10/2×3/23/-12/2///
+5H/All/13/9/19/-9/4///
+2P/All/6/4/9/-3/0///
+2K/Low/6/2/13/-3/1///
+2S/All/11/4/20/-10/2///
+2H/All/13/7/26/-13/4///
+jP/High/8/5, 5, 2/15//0///
+jK/High/7/4/11//1///
+jS/High/9/4/14//2///
+jH/High/12/14/13//3///
+jD/High/11/4/22//4///
+6P/All/12/8/12/-6/2//1 ~ 3 Upper Body 4 ~ 15 Above Knees/
+6K/High/28/5/7/+2/2///
+6H/All/30/4/11/-4/3///
+2D/Low/10/6/17/-9/2///
+5D/High/20/3/26/-15/2///
+5[D]/High/28/3/26/-10/4///
+22H/All/18/32/2/-7/2/Invite Hell//
+]P[/All/13/3(17)2/24//2/Pierce//
+236P/All/21 [25]/3(17)2/24//2/Pierce//
+]K[/All/19////2/That's a lot//
+236K/All/27 [31]///+55/2/That's a lot//
+]S[/All/13/11(6)9/34//3/Leap//
+236S/All/21 [25]/11(6)9/34/+46/3/Leap//
+]H[/All/66/3×6/(Summon Vanishes)//4/Oppose/8~59 Guardpoint/
+236H/All/74 {78}/3×6/(Summon Vanishes) [36 Zato]//4/Oppose/16~67 {20~71} Guardpoint/
+623S/Ground Throw/6/1/39///Damned Fang/1~5 Throw/
+214K//28 Total (Max 95)/////Break The Law/13~[71] Full 14~21~[77] Strike/
+214S/All/9/10/12/-8/2/Drunkard Shade/3~18 Reflect/
+214S (Dash)//30 Total/////Eddie Dash//
+214H//20/////Summon Eddie//
+214H//0/////Unsummon Eddie//
+632146H/All/8+8//Total 43/+12/4/Amorphous//
+632146S/All/11+14////4/Sun Void//
+j632146S/All/11+14////4/Sun Void//

@@ -1,0 +1,36 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/5/5/6/+1/1///
+5K/Low/10/9/9/-4/2///
+cS/All/8/4/11/+4/4///
+fS/All/12/7/18/-8/3///
+5H/All/16/5/25/-11/4///
+5D/High/20/8/21/-15/2///
+5[D]/High/28/8/21/-10/4///
+2P/All/8/4/9/-1/1///
+2K/Low/10/4/14/-4/2///
+2S/All/14/3/18/-4/3///
+2H/All/13/5/35/-21/4///
+2D/Low/13/7/18/-8/3///
+6P/All/11/7/25/-15/3//1 ~ 4F Upper Body 5 ~ 17F Above Knees/
+6K/All/22/5/18/-6/3///
+6H/All/23/5/29/-15/4///
+jP/High/7/6/6//0///
+jK/High/10/6/15//1///
+jS/High/13/5/23//3///
+jH/High/12/4/16//4///
+jD/All/13/Until Landing/9 After landing//3///
+[4]6H/All/18~62/2f/26/-9//Hammer Fall//
+[4]6H P////27///Hammer Fall Break//
+632146P/Ground Throw/5/4/37///Potemkin Buster/1 ~ 8F Throw/
+623H/Air Guard Crush/12/4/18/+10~+3//Heat Knuckle//
+236P/High/25/7/16/-6/3/Forward Mega Fist//
+214P/High/25/7/6/+4/3/Backward Mega Fist//
+2146K~P/High/26-27/7/12/-2/3/Mega Fist//
+236S/Low (Guard Crush)/29/2/28/0/4/Slide Head//
+63214S/All/20~37/3/20/-6/3/F.D.B./4 ~ [19~37F] Reflect/
+63214[S]/All/38/3/20/-6/3/F.D.B. (Charged)/4 ~ 37F Reflect/
+Reflect Projectile/All/1///+11/3/Reflect Projectile//
+214H/All (Guard Crush)/28/11/24/+19//Garuda Impact//
+236236S/Air Unblockable/12+0/15/16///Heavenly Potemkin Buster/1 ~ 12F Full/
+632146H/All/10+1/5/17/+100//Giganter Kai//
+Mirror/All/10+23/464////Giganter Kai (Barrier)//

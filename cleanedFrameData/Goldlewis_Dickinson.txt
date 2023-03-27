@@ -1,0 +1,48 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/7/3/6/+3/1//none/
+5K/Low/10/9/12/-7/2//none/
+cS/All/7/6/12/+1/4//none/
+fS/All/10/3/18/-7/2//none/
+5H/All/19/6/15/-2/4//none/
+5D/High/20/3/26/-15/2//none/
+5[D]/High/28/3/26/-10/4//none/
+6P/All/12/6/27/-19/2//1~2 Upper Body 3~17 Above Knees/
+6H/All/25/3/30/-14/4//none/
+2P/All/5/3/6/+3/1//none/
+2K/Low/8/3/11/-3/1//none/
+2S/All/13/3/20/-9/2//none/
+2H/All/20/4/30/-15/4//none/
+2D/Low/14/3/24/-10/3//none/
+jP/High/6/3/12//0//none/
+jK/High/9/4/17//1//none/
+jS/High/11/11/13//2//none/
+jH/High/15/4/20//2//none/
+jD/High/14/10/14//3//none/
+41236H/All (Guard Crush)/12/20/18/+12~+16/4/Behemoth Typhoon (426)/none/
+j41236H/All/12/20/Until landing+10/-25~+7/4/Air Behemoth Typhoon (426)/none/
+63214H/All (Guard Crush)/12/20/21/-5/4/Behemoth Typhoon (624)/none/
+j63214H/All/12/20/Until landing+10/-25~+7/4/Air Behemoth Typhoon (624)/none/
+23698H/All (Guard Crush)/12/15/18/+3~14/4/Behemoth Typhoon (268)/none/
+j23698H/All/12/15/Until landing+10/-25~+7/4/Air Behemoth Typhoon (268)/none/
+21478H/Low (Guard Crush)/12/15/18/+3/4/Behemoth Typhoon (248)/none/
+j21478H/All/12/15/Until landing+10/-25~+7/4/Air Behemoth Typhoon (248)/none/
+69874H/All* (Guard Crush)/12/20/21/-5/4/Behemoth Typhoon (684)/none/
+j69874H/All/12/20/Until landing+10/-25~+7/4/Air Behemoth Typhoon (684)/none/
+47896H/High (Guard Crush)/12/20/18/+14~15/4/Behemoth Typhoon (486)/none/
+j47896H/All/12/20/Until landing+10/-25~+7/4/Air Behemoth Typhoon (486)/none/
+87412H/Low (Guard Crush)/12/15/18/+16/4/Behemoth Typhoon (842)/none/
+j87412H/All/12/15/Until landing+10/-25~+7/4/Air Behemoth Typhoon (842)/none/
+89632H/High (Guard Crush)/12/15/18/+12/4/Behemoth Typhoon (862)/none/
+j89632H/All/12/20/Until landing+10/-25~+7/4/Air Behemoth Typhoon (862)/none/
+214S Level 1/All/57/24/42 Total//2/Thunderbird (Level 1)/none/
+214S Level 2/All/57/84/38 Total//2/Thunderbird (Level 2)/none/
+214S Level 3/All/57/144/34 Total//2/Thunderbird (Level 3)/none/
+236S Level 1/All/35//84 Total/-13/0/Skyfish (Level 1)/none/
+236S Level 2/All/30//109 Total/-13/0/Skyfish (Level 2)/none/
+236S Level 3/All/25//134 Total/-13/0/Skyfish (Level 3)/none/
+632146P/All/6+(135 Flash)+4/5/46/-33/3/Down With The System/1~14 All/
+720P/All/11+(191 Flash)+4/5/46/-33/3/Down With The System (720)/1~19 All/
+1080P/All/16+(230 Flash)+4/5/46/-33/3/Down With The System (1080)/1~24 All/
+236236K Level 1/All/13+(84 Flash)+79/52/27 Total//2/Burn It Down (Level 1)/none/
+236236K Level 2/All/13+(84 Flash)+79/72/27 Total//2/Burn It Down (Level 2)/none/
+236236K Level 3/All/13+(84 Flash)+79/92/27 Total//2/Burn It Down (Level 3)/none/

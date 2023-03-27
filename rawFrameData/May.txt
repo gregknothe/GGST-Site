@@ -1,0 +1,33 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/4/3/8/-1/0///
+5K/All/8/6/11/-5/1///
+cS/All/7/6/8/+3/3///
+fS/All/12/3/19/-8/2///
+5H/All/13/8/15/-4/4///
+2P/All/5/4/8/-2/0///
+2K/Low/6/4/10/-2/1///
+2S/All/10/3/18/-7/2///
+2H/All/11/13/26/-20/4///
+jP/High/5/3/12//0///
+jK/High/7/3/12//1///
+jS/High/12/4/15//2///
+jH/High/12/10/15//3///
+jD/High/10/6/21//4///
+j2H/High/13/Until L/6//3///
+6P/All/12/6/18/-7/3//1-3 upper body 4-17 above knees/
+6K/High/20/5/11/-2/2///
+3K/Low/11/9/15/-10/2///
+6H/All [All (Guard Crush)]/16 [40]/6 [6]/24 [24]/-8 [+8]/4///
+2D/Low/10/7/17/-7/3///
+5D/High/20/3/26/-15/2///
+5[D]/High/28/3/26/-10/4///
+[4]6S/All/7/9 [18]/11 (24 OH)/-3/2/S Mr. Dolphin Horizontal//
+[4]6H/All/25/9 [18]/11 (18 OH)/+7/4/H Mr. Dolphin Horizontal//
+[2]8S/All→High/6/19/7 (21 OH)/0 (Airborne)/2/S Mr. Dolphin Vertical//
+[2]8H/All→High/11/27/8 (19 OH)/+6 (Airborne)/3/H Mr. Dolphin Vertical//
+623K/Throw/6/1/39///Overhead Kiss/1~6F Throw/
+214P/All/48/6/Total 45/+29/2/P Arisugawa Sparkle//
+214K/All/48/10/Total 45/+29/2/K Arisugawa Sparkle//
+236236S/All/10+//88/-54/4/Great Yamada Attack//
+632146H/All/6+4/12(22)10/55/-21//The Wonderful and Dynamic Goshogawara/1~21 Full/
+j632146H/All/6+4/12(22+)10/54/-21//Air The Wonderful and Dynamic Goshogawara/1~21 Full/

@@ -1,0 +1,32 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/5/4/8/-2/0///
+5K/All/7/3/11/-2/1///
+cS/All/7/6/10/+1/3///
+fS/All/11/6/21/-10 [-13]/3 [2]///
+5H/All/12/3/28/-12 [-13]/4 [3]///
+2P/All/6/4/9/-3/0///
+2K/Low/6/5/9/-2/1///
+2S/Low/10/4/18/-5 [-8]/3 [2]///
+2H/All/14/9/25/-15 [-17]/4 [3]///
+jP/High/5/4/8//0///
+jK/High/7/4/13//1///
+jS/High/12/4/24//2 [1]///
+jH/High/19/6/31//2 [1]///
+jD/High/10/2, 2, 2///1///
+6P/All/9/5/18/-9/2//1-3 Upper Body 4-13 Above Knees/
+6H/All/18/2/33/-16 [-18]/4 [3]///
+2D/Low/10/6/19/-8/3///
+5D/High/20/2/27/-15/2///
+5[D]/High/28/2/27/-10/4///
+236S/All/20/Until Wall (34) 15/Total 37/+9/2/S Bajoneto//
+236H/All/20/Until Wall (34) 15/Total 43/+3/2/H Bajoneto//
+623P/All/11/3/27/-10/4/Dauro//
+214K/All/30/2/13/+2/3/Sildo Detruo//
+j214K/All/30/Until Landing//-3~+3/3/Air Sildo Detruo//
+214H/All/19/4/42/-27 [-27] {-32}/4 [4] {2}/Sabrubato//
+214P/All/16/7/12/-5/2/Erarlumo (1)//
+214P 214P/All/9/4/25/-12 [-10]/3 [4]/Erarlumo (2)//
+214P 214P 214P/All/11/6/38/-25/4/Erarlumo (3)//
+j214S/All/12/4(10)4/24//3/Agressa Ordono//
+632146H/All (Guard Crush)/11+13///+16/1/Calvados//
+236236S/All/7+2/6/51/-38 [-38] {-43}/4 [4] {2}/Mortobato/1~14 All/

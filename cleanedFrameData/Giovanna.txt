@@ -1,0 +1,29 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/4/3/9/-2/0///
+5K/All/6/4/10/-2/1///
+cS/All/7/6/10/+3/4///
+fS/All/9/2(6)2(6)2/16/-4/2///
+5H/All/10/3/19/-5/3///
+2P/All/5/2/10/-2/0///
+2K/Low/6/3/11/-2/1///
+2S/Low/9/3(5)3/15/-6/2///
+2H/All/11/6/21/-8/4///
+jP/High/6/5/9//0///
+jK/High/6/3/19//1///
+jS/High/7/3/24//2///
+jH/High/8/5/18//2///
+jD/High/7/3(7)3/18//2, 3///
+6P/All/12/8/15/-9/2//1~4 Upper Body 5~19 Above Knees/
+6H/All/17/9/15/-10/2//14~28F Airborne/
+6HH/All/11///-11/2///
+6HHH/All/13///-16/3///
+2D/Low/17/10/12/-8/2///
+5D/High/20/4/25/-15/2///
+5[D]/High/28/4/25/-10/4///
+236K/All/27/10/13/+4/4/Trovao//
+214K/All/13/3/20/-4/4/Sepultura//
+623S/All/7/8/21/-15/4/Sol Nascente/upper body invuln 1~6 above the knees 7~9 below the knees 9~26/
+214S/All, High/[4] 27/6(20)3/21/-5/3, 4/Sol Poente/7~37F Airborne/
+j214S/All, High/[4] 27/6(20)3/Until L+12//3, 4/Air Sol Poente//
+632146H/All/5+4/4(4)4(4)4(4)4(4)7/49/-37/4/Ventania/1~10F Full/
+j236236H/All/3+1/Until L//0 ~ +6/3/Tempestade//

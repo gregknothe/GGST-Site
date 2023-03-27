@@ -1,0 +1,37 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/5/4/8/-2/0///
+5K/All/7/8/8/-2/2///
+cS/All/8/6/12/-1/3///
+fS/All/12/2/20/-8/2///
+5H/All/13/8/18/-7/4///
+5HH//1//2/////
+2P/Low/7/2/11/-3/0///
+2K/Low/5/2(1)6/12/-2/1///
+2S/All/11/9/26/-19/2///
+2H/Low/14/2/29/-12/4///
+jP/High/7/4/6//0///
+jK/High/7/5/18//1///
+jS/High/14/3/20//2///
+jH/High/9/5/15//3///
+jD/High/13/6/23//2///
+6P/All/9/3/32/-21/2//1-4 Upper Body 5-11 Above Knees/
+6H/High/25/9/44/-34/4///
+j2K/All/10/Until L///2///
+2D/Low/12/3/18/-4/3///
+5D/High/20/3/26/-15/2///
+5[D]/High/28/3/26/-10/4///
+41236K/All/26/12/19/-12/4/Thrust//
+41236K 4//59/////Pull Back//
+41236K 4 H//9/////Hole in One!//
+236P//26//Total 40///What Could This Be?//
+236S/All/17///-7/3/Mix Mix Mix//
+j236S/All/17////3/Air Mix Mix Mix//
+236H/Ground Throw/6/1/43///Snip Snip Snip/1-7F Throw/
+j236P/All/27//Total 48//1, 2/Love//
+j236P (With Afro)/All (Guard Crush)/27//Total 48//1, 2/Love//
+214P/All/54 [84]/11,12 [11,8,3]/10 [7]/-8 [+7]/2 [2×2, 4]/P Scarecrow//
+214K/All/54 [84]/11,12 [11,8,3]/10 [7]/-8 [+7]/2 [2×2, 4]/K Scarecrow//
+214S/High/50 [69]/17/36/-32 [-27]/2 [4]/S Scarecrow//
+632146H/All/16+5/3/48/-32//Bone-crushing Excitement/1~23 Full/
+236236P//1+7//Total 43///W-W-What Could This Be?//
+236236236P//1+7/////W-W-W-W-W-W-W-W-W-What Could This Be?//

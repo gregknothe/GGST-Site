@@ -1,0 +1,33 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/6/3/9/-2/0///
+5K/All/7/4/11/-3/1///
+cS/All/8/6/10/+1/3///
+fS/All/12/3/18/-7/2///
+5H/All/13/2/25/-8/4///
+5D/High/20/3/26/-15/2///
+5[D]/High/28/3/26/-10/2///
+6P/All/11/6/15/-7/2//1~3 Upper Body 4~17 Above knees/
+6H/All/23/6/32/-19/4///
+2P/All/5/3/10/-3/0///
+2K/Low/6/2/13/-3/1///
+2S/Low/10/3/18/-7/2///
+2H/All/23/9/12/-2/4///
+2D/Low/14/3/22/-8/3///
+jP/High/6/4/10//0///
+jK/High/8/2/12//1///
+jS/High/9/3/19//2///
+jH/High/13/5/16/+5 (IAD)/2///
+jD/High/12/6/22//2///
+Stain/All/////3/Stain//
+236S/All/16~22/4, (5), 30/27/-4/3, 1/S Grave Reaper//
+236H/All/13~19/4, (5), 30/21/+2/3, 1/H Grave Reaper//
+236{S}/All/23~29/4, (5), 70/22/+3/3, 2/S Grave Reaper//
+236{H}/All/20~26/4, (5), 70/16/+9/3, 2/H Grave Reaper//
+236[S]/All/30~36/4, (5), 110/19/+10/3, 3/S Grave Reaper//
+236[H]/All/27~33/4, (5), 110/13/+16/3, 3/H Grave Reaper//
+214P/All/21//Total 39/+1/2/Unholy Diver//
+214K//16//19///Possession/All 16~25F/
+214S/Low/24/3/35/-12/3/S Arbiter Sign//
+214H/High/28/3/35/-12/3/H Arbiter Sign//
+236236P/All/11+19/6, (20), 6, (24), 4/Total 53/+63/3/Nostrovia//
+236236K/All/11+4/5/67/-38/4/Calamity One/1~19F Full/

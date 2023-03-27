@@ -1,0 +1,31 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/7/5/7/-2/0//None/
+5K/All/7/3/12/-3/1//None/
+cS/All/7/3, 3/13/+1/3//None/
+fS/All/9/2/19/-7/2//27-30F Head/
+5H/All/12/4/23/-8/4//None/
+5D/High/20/3/26/-15/2//None/
+5[D]/High/28/3/26/-10/4//None/
+6P/All/9/9/16/-11/2//1-2F Upper Body 3-11F Above Knee/
+6K/High/28/2/10/+2/2//13-29F Below Knee/
+6H/All/15/5(13)4/23/-8/4//9-21F Airborne/
+2P/All/4/2/10/-2/0//None/
+2K/Low/6/3/12/-3/1//None/
+2S/Low/11/2/18/-6/2//None/
+2H/All/14/7/17/-7/3//None/
+2D/Low/12/3/19/-8/2//None/
+jP/High/5/4/12/-/0//None/
+jK/High/6/4/12/-/1//None/
+jS/High/7/4/14/-/2//None/
+jH/High/8/10/25/+1 (IAD)/2//None/
+jD/High/9/7/27/-/2//None/
+236S/All/12/14/Total 45/-10/3/S Tandem Top/9-41F Airborne 42-45F Below Knee/
+236H/All/73/286/Total 51/-/3/H Tandem Top/18F onwards Airborne/
+214S/All/17/1[(3)1]×2~8/16/-5, -7, -9/1/Lust Shaker/None/
+214P/Low/20/till corner/17 + 10L/-12/3/Iron Savior/10F onwards Airborne/
+j236P/High/11/Until Ground/20 + 12L/-21/2/Bad Moon/None/
+j236K/-/14/-/9L/-/-/Turbo Fall/None/
+214K/-/-/-/Total 28/-/-/Mirazh/1-3F Upper Body 4-24F Above Knee/
+j236H/All/13/3/12/-1 at lowest height/1/Kapel/1-12F Lower Body/
+236236S/All/4+5/till corner/Total 43/+8/224/Septem Voices/9-26F Airborne/
+632146H/All/8+1/10(9)15/40/-32/4/Winger/1-8F Full 7-40F Airborne/

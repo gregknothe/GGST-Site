@@ -1,0 +1,1250 @@
+Input1,IMG1,Input2,IMG2,Gap,Situation,Note
+5P,<img src='5P.png'></img>,5P,<img src='5P.png'></img>,-7f,Ground Gatling,nan <br> 
+5P,<img src='5P.png'></img>,5K,<img src='5K.png'></img>,5f,Ground Non-Gatling,nan <br> 
+5P,<img src='5P.png'></img>,cS,<img src='cS.png'></img>,9f,Ground Non-Gatling,nan <br> 
+5P,<img src='5P.png'></img>,fS,<img src='fS.png'></img>,12f,Ground Non-Gatling,nan <br> 
+5P,<img src='5P.png'></img>,5H,<img src='5H.png'></img>,13f,Ground Non-Gatling,nan <br> 
+5P,<img src='5P.png'></img>,2P,<img src='2P.png'></img>,-6f,Ground Gatling,nan <br> 
+5P,<img src='5P.png'></img>,2K,<img src='2K.png'></img>,8f,Ground Non-Gatling,nan <br> 
+5P,<img src='5P.png'></img>,2S,<img src='2S.png'></img>,12f,Ground Non-Gatling,nan <br> 
+5P,<img src='5P.png'></img>,2H,<img src='2H.png'></img>,13f,Ground Non-Gatling,nan <br> 
+5P,<img src='5P.png'></img>,jP,<img src='jP.png'></img>,11f,Ground Non-Jump Cancel,nan <br> 
+5P,<img src='5P.png'></img>,jK,<img src='jK.png'></img>,12f,Ground Non-Jump Cancel,nan <br> 
+5P,<img src='5P.png'></img>,jS,<img src='jS.png'></img>,16f,Ground Non-Jump Cancel,nan <br> 
+5P,<img src='5P.png'></img>,jH,<img src='jH.png'></img>,17f,Ground Non-Jump Cancel,nan <br> 
+5P,<img src='5P.png'></img>,jD,<img src='jD.png'></img>,15f,Ground Non-Jump Cancel,nan <br> 
+5P,<img src='5P.png'></img>,6P,<img src='6P.png'></img>,-2f,Ground Gatling,nan <br> 
+5P,<img src='5P.png'></img>,6S,<img src='6S.png'></img>,17f,Ground Non-Gatling,nan <br> 
+5P,<img src='5P.png'></img>,6H,<img src='6H.png'></img>,11f,Ground Non-Gatling,nan <br> 
+5P,<img src='5P.png'></img>,2D,<img src='2D.png'></img>,12f,Ground Non-Gatling,nan <br> 
+5P,<img src='5P.png'></img>,5D,<img src='5D.png'></img>,22f,Ground Non-Gatling,nan <br> 
+5P,<img src='5P.png'></img>,5[D],<img src='5[D].png'></img>,30f,Ground Non-Gatling,nan <br> 
+5P,<img src='5P.png'></img>,236P,<img src='236P.png'></img>,7f,Ground Gatling,nan <br> 
+5P,<img src='5P.png'></img>,623S,<img src='623S.png'></img>,-2f,Ground Gatling,nan <br> 
+5P,<img src='5P.png'></img>,623H,<img src='623H.png'></img>,2f,Ground Gatling,nan <br> 
+5P,<img src='5P.png'></img>,j623S,<img src='j623S.png'></img>,15f,Ground Non-Jump Cancel,nan <br> 
+5P,<img src='5P.png'></img>,j623H,<img src='j623H.png'></img>,19f,Ground Non-Jump Cancel,nan <br> 
+5P,<img src='5P.png'></img>,236K,<img src='236K.png'></img>,1f,Ground Gatling,nan <br> 
+5P,<img src='5P.png'></img>,j236K,<img src='j236K.png'></img>,16f,Ground Non-Jump Cancel,nan <br> 
+5P,<img src='5P.png'></img>,214K,<img src='214K.png'></img>,19f,Ground Gatling,nan <br> 
+5P,<img src='5P.png'></img>,j214K,<img src='j214K.png'></img>,28f,Ground Non-Jump Cancel,nan <br> 
+5P,<img src='5P.png'></img>,j214[K],<img src='j214[K].png'></img>,36f,Ground Non-Jump Cancel,nan <br> 
+5P,<img src='5P.png'></img>,623K,<img src='623K.png'></img>,-5f,Ground Gatling,nan <br> 
+5P,<img src='5P.png'></img>,214S,<img src='214S.png'></img>,17f,Ground Non-Gatling,nan <br> 
+5P,<img src='5P.png'></img>,214[S],<img src='214[S].png'></img>,34f,Ground Non-Gatling,nan <br> 
+5P,<img src='5P.png'></img>,41236H,<img src='41236H.png'></img>,26f,Ground Non-Gatling,nan <br> 
+5P,<img src='5P.png'></img>,632146H,<img src='632146H.png'></img>,-2f,Ground Gatling,nan <br> 
+5P,<img src='5P.png'></img>,214214H,<img src='214214H.png'></img>,22f,Ground Non-Gatling,nan <br> 
+5K(1),<img src='5K(1).png'></img>,jP,<img src='jP.png'></img>,0f,Ground Jump Cancel,nan <br> 
+5K(1),<img src='5K(1).png'></img>,jK,<img src='jK.png'></img>,1f,Ground Jump Cancel,nan <br> 
+5K(1),<img src='5K(1).png'></img>,jS,<img src='jS.png'></img>,5f,Ground Jump Cancel,nan <br> 
+5K(1),<img src='5K(1).png'></img>,jH,<img src='jH.png'></img>,6f,Ground Jump Cancel,nan <br> 
+5K(1),<img src='5K(1).png'></img>,jD,<img src='jD.png'></img>,4f,Ground Jump Cancel,nan <br> 
+5K(1),<img src='5K(1).png'></img>,6P,<img src='6P.png'></img>,0f,Ground Gatling,nan <br> 
+5K(1),<img src='5K(1).png'></img>,6S,<img src='6S.png'></img>,6f,Ground Gatling,nan <br> 
+5K(1),<img src='5K(1).png'></img>,6H,<img src='6H.png'></img>,0f,Ground Gatling,nan <br> 
+5K(1),<img src='5K(1).png'></img>,2D,<img src='2D.png'></img>,1f,Ground Gatling,nan <br> 
+5K(1),<img src='5K(1).png'></img>,5D,<img src='5D.png'></img>,11f,Ground Gatling,nan <br> 
+5K(1),<img src='5K(1).png'></img>,5[D],<img src='5[D].png'></img>,19f,Ground Gatling,nan <br> 
+5K(1),<img src='5K(1).png'></img>,236P,<img src='236P.png'></img>,9f,Ground Gatling,nan <br> 
+5K(1),<img src='5K(1).png'></img>,623S,<img src='623S.png'></img>,0f,Ground Gatling,nan <br> 
+5K(1),<img src='5K(1).png'></img>,623H,<img src='623H.png'></img>,4f,Ground Gatling,nan <br> 
+5K(1),<img src='5K(1).png'></img>,j623S,<img src='j623S.png'></img>,4f,Ground Jump Cancel,nan <br> 
+5K(1),<img src='5K(1).png'></img>,j623H,<img src='j623H.png'></img>,8f,Ground Jump Cancel,nan <br> 
+5K(1),<img src='5K(1).png'></img>,236K,<img src='236K.png'></img>,3f,Ground Gatling,nan <br> 
+5K(1),<img src='5K(1).png'></img>,j236K,<img src='j236K.png'></img>,5f,Ground Jump Cancel,nan <br> 
+5K(1),<img src='5K(1).png'></img>,214K,<img src='214K.png'></img>,21f,Ground Gatling,nan <br> 
+5K(1),<img src='5K(1).png'></img>,j214K,<img src='j214K.png'></img>,17f,Ground Jump Cancel,nan <br> 
+5K(1),<img src='5K(1).png'></img>,j214[K],<img src='j214[K].png'></img>,25f,Ground Jump Cancel,nan <br> 
+5K(1),<img src='5K(1).png'></img>,623K,<img src='623K.png'></img>,-3f,Ground Gatling,nan <br> 
+5K(1),<img src='5K(1).png'></img>,632146H,<img src='632146H.png'></img>,0f,Ground Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,5P,<img src='5P.png'></img>,20f,Ground Non-Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,5K,<img src='5K.png'></img>,19f,Ground Non-Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,cS,<img src='cS.png'></img>,23f,Ground Non-Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,fS,<img src='fS.png'></img>,26f,Ground Non-Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,5H,<img src='5H.png'></img>,27f,Ground Non-Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,2P,<img src='2P.png'></img>,21f,Ground Non-Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,2K,<img src='2K.png'></img>,22f,Ground Non-Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,2S,<img src='2S.png'></img>,26f,Ground Non-Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,2H,<img src='2H.png'></img>,27f,Ground Non-Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,jP,<img src='jP.png'></img>,-2f,Ground Jump Cancel,nan <br> 
+5K(2),<img src='5K(2).png'></img>,jK,<img src='jK.png'></img>,-1f,Ground Jump Cancel,nan <br> 
+5K(2),<img src='5K(2).png'></img>,jS,<img src='jS.png'></img>,3f,Ground Jump Cancel,nan <br> 
+5K(2),<img src='5K(2).png'></img>,jH,<img src='jH.png'></img>,4f,Ground Jump Cancel,nan <br> 
+5K(2),<img src='5K(2).png'></img>,jD,<img src='jD.png'></img>,2f,Ground Jump Cancel,nan <br> 
+5K(2),<img src='5K(2).png'></img>,6P,<img src='6P.png'></img>,-2f,Ground Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,6S,<img src='6S.png'></img>,4f,Ground Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,6H,<img src='6H.png'></img>,-2f,Ground Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,2D,<img src='2D.png'></img>,-1f,Ground Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,5D,<img src='5D.png'></img>,9f,Ground Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,5[D],<img src='5[D].png'></img>,17f,Ground Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,236P,<img src='236P.png'></img>,7f,Ground Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,623S,<img src='623S.png'></img>,-2f,Ground Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,623H,<img src='623H.png'></img>,2f,Ground Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,j623S,<img src='j623S.png'></img>,2f,Ground Jump Cancel,nan <br> 
+5K(2),<img src='5K(2).png'></img>,j623H,<img src='j623H.png'></img>,6f,Ground Jump Cancel,nan <br> 
+5K(2),<img src='5K(2).png'></img>,236K,<img src='236K.png'></img>,1f,Ground Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,j236K,<img src='j236K.png'></img>,3f,Ground Jump Cancel,nan <br> 
+5K(2),<img src='5K(2).png'></img>,214K,<img src='214K.png'></img>,19f,Ground Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,j214K,<img src='j214K.png'></img>,15f,Ground Jump Cancel,nan <br> 
+5K(2),<img src='5K(2).png'></img>,j214[K],<img src='j214[K].png'></img>,23f,Ground Jump Cancel,nan <br> 
+5K(2),<img src='5K(2).png'></img>,623K,<img src='623K.png'></img>,-5f,Ground Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,214S,<img src='214S.png'></img>,31f,Ground Non-Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,214[S],<img src='214[S].png'></img>,48f,Ground Non-Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,41236H,<img src='41236H.png'></img>,40f,Ground Non-Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,632146H,<img src='632146H.png'></img>,-2f,Ground Gatling,nan <br> 
+5K(2),<img src='5K(2).png'></img>,214214H,<img src='214214H.png'></img>,36f,Ground Non-Gatling,nan <br> 
+cS,<img src='cS.png'></img>,5P,<img src='5P.png'></img>,1f,Ground Non-Gatling,nan <br> 
+cS,<img src='cS.png'></img>,5K,<img src='5K.png'></img>,0f,Ground Non-Gatling,nan <br> 
+cS,<img src='cS.png'></img>,cS,<img src='cS.png'></img>,4f,Ground Non-Gatling,nan <br> 
+cS,<img src='cS.png'></img>,fS,<img src='fS.png'></img>,-8f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,5H,<img src='5H.png'></img>,-7f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,2P,<img src='2P.png'></img>,2f,Ground Non-Gatling,nan <br> 
+cS,<img src='cS.png'></img>,2K,<img src='2K.png'></img>,3f,Ground Non-Gatling,nan <br> 
+cS,<img src='cS.png'></img>,2S,<img src='2S.png'></img>,-8f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,2H,<img src='2H.png'></img>,-7f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,jP,<img src='jP.png'></img>,-9f,Ground Jump Cancel,nan <br> 
+cS,<img src='cS.png'></img>,jK,<img src='jK.png'></img>,-8f,Ground Jump Cancel,nan <br> 
+cS,<img src='cS.png'></img>,jS,<img src='jS.png'></img>,-4f,Ground Jump Cancel,nan <br> 
+cS,<img src='cS.png'></img>,jH,<img src='jH.png'></img>,-3f,Ground Jump Cancel,nan <br> 
+cS,<img src='cS.png'></img>,jD,<img src='jD.png'></img>,-5f,Ground Jump Cancel,nan <br> 
+cS,<img src='cS.png'></img>,6P,<img src='6P.png'></img>,-9f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,6S,<img src='6S.png'></img>,-3f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,6H,<img src='6H.png'></img>,-9f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,2D,<img src='2D.png'></img>,-8f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,5D,<img src='5D.png'></img>,2f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,5[D],<img src='5[D].png'></img>,10f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,236P,<img src='236P.png'></img>,0f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,623S,<img src='623S.png'></img>,-9f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,623H,<img src='623H.png'></img>,-5f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,j623S,<img src='j623S.png'></img>,-5f,Ground Jump Cancel,nan <br> 
+cS,<img src='cS.png'></img>,j623H,<img src='j623H.png'></img>,-1f,Ground Jump Cancel,nan <br> 
+cS,<img src='cS.png'></img>,236K,<img src='236K.png'></img>,-6f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,j236K,<img src='j236K.png'></img>,-4f,Ground Jump Cancel,nan <br> 
+cS,<img src='cS.png'></img>,214K,<img src='214K.png'></img>,12f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,j214K,<img src='j214K.png'></img>,8f,Ground Jump Cancel,nan <br> 
+cS,<img src='cS.png'></img>,j214[K],<img src='j214[K].png'></img>,16f,Ground Jump Cancel,nan <br> 
+cS,<img src='cS.png'></img>,623K,<img src='623K.png'></img>,-12f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,214S,<img src='214S.png'></img>,12f,Ground Non-Gatling,nan <br> 
+cS,<img src='cS.png'></img>,214[S],<img src='214[S].png'></img>,29f,Ground Non-Gatling,nan <br> 
+cS,<img src='cS.png'></img>,41236H,<img src='41236H.png'></img>,21f,Ground Non-Gatling,nan <br> 
+cS,<img src='cS.png'></img>,632146H,<img src='632146H.png'></img>,-9f,Ground Gatling,nan <br> 
+cS,<img src='cS.png'></img>,214214H,<img src='214214H.png'></img>,17f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,5P,<img src='5P.png'></img>,2f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,5K,<img src='5K.png'></img>,1f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,cS,<img src='cS.png'></img>,5f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,fS,<img src='fS.png'></img>,8f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,5H,<img src='5H.png'></img>,-5f,Ground Gatling,nan <br> 
+fS,<img src='fS.png'></img>,2P,<img src='2P.png'></img>,3f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,2K,<img src='2K.png'></img>,4f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,2S,<img src='2S.png'></img>,8f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,2H,<img src='2H.png'></img>,-5f,Ground Gatling,nan <br> 
+fS,<img src='fS.png'></img>,jP,<img src='jP.png'></img>,7f,Ground Non-Jump Cancel,nan <br> 
+fS,<img src='fS.png'></img>,jK,<img src='jK.png'></img>,8f,Ground Non-Jump Cancel,nan <br> 
+fS,<img src='fS.png'></img>,jS,<img src='jS.png'></img>,12f,Ground Non-Jump Cancel,nan <br> 
+fS,<img src='fS.png'></img>,jH,<img src='jH.png'></img>,13f,Ground Non-Jump Cancel,nan <br> 
+fS,<img src='fS.png'></img>,jD,<img src='jD.png'></img>,11f,Ground Non-Jump Cancel,nan <br> 
+fS,<img src='fS.png'></img>,6P,<img src='6P.png'></img>,7f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,6S,<img src='6S.png'></img>,13f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,6H,<img src='6H.png'></img>,7f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,2D,<img src='2D.png'></img>,8f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,5D,<img src='5D.png'></img>,18f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,5[D],<img src='5[D].png'></img>,26f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,236P,<img src='236P.png'></img>,2f,Ground Gatling,nan <br> 
+fS,<img src='fS.png'></img>,623S,<img src='623S.png'></img>,-7f,Ground Gatling,nan <br> 
+fS,<img src='fS.png'></img>,623H,<img src='623H.png'></img>,-3f,Ground Gatling,nan <br> 
+fS,<img src='fS.png'></img>,j623S,<img src='j623S.png'></img>,11f,Ground Non-Jump Cancel,nan <br> 
+fS,<img src='fS.png'></img>,j623H,<img src='j623H.png'></img>,15f,Ground Non-Jump Cancel,nan <br> 
+fS,<img src='fS.png'></img>,236K,<img src='236K.png'></img>,-4f,Ground Gatling,nan <br> 
+fS,<img src='fS.png'></img>,j236K,<img src='j236K.png'></img>,12f,Ground Non-Jump Cancel,nan <br> 
+fS,<img src='fS.png'></img>,214K,<img src='214K.png'></img>,14f,Ground Gatling,nan <br> 
+fS,<img src='fS.png'></img>,j214K,<img src='j214K.png'></img>,24f,Ground Non-Jump Cancel,nan <br> 
+fS,<img src='fS.png'></img>,j214[K],<img src='j214[K].png'></img>,32f,Ground Non-Jump Cancel,nan <br> 
+fS,<img src='fS.png'></img>,623K,<img src='623K.png'></img>,-10f,Ground Gatling,nan <br> 
+fS,<img src='fS.png'></img>,214S,<img src='214S.png'></img>,13f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,214[S],<img src='214[S].png'></img>,30f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,41236H,<img src='41236H.png'></img>,22f,Ground Non-Gatling,nan <br> 
+fS,<img src='fS.png'></img>,632146H,<img src='632146H.png'></img>,-7f,Ground Gatling,nan <br> 
+fS,<img src='fS.png'></img>,214214H,<img src='214214H.png'></img>,18f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,5P,<img src='5P.png'></img>,9f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,5K,<img src='5K.png'></img>,8f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,cS,<img src='cS.png'></img>,12f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,fS,<img src='fS.png'></img>,15f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,5H,<img src='5H.png'></img>,16f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,2P,<img src='2P.png'></img>,10f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,2K,<img src='2K.png'></img>,11f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,2S,<img src='2S.png'></img>,15f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,2H,<img src='2H.png'></img>,16f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,jP,<img src='jP.png'></img>,14f,Ground Non-Jump Cancel,nan <br> 
+5H,<img src='5H.png'></img>,jK,<img src='jK.png'></img>,15f,Ground Non-Jump Cancel,nan <br> 
+5H,<img src='5H.png'></img>,jS,<img src='jS.png'></img>,19f,Ground Non-Jump Cancel,nan <br> 
+5H,<img src='5H.png'></img>,jH,<img src='jH.png'></img>,20f,Ground Non-Jump Cancel,nan <br> 
+5H,<img src='5H.png'></img>,jD,<img src='jD.png'></img>,18f,Ground Non-Jump Cancel,nan <br> 
+5H,<img src='5H.png'></img>,6P,<img src='6P.png'></img>,14f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,6S,<img src='6S.png'></img>,20f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,6H,<img src='6H.png'></img>,14f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,2D,<img src='2D.png'></img>,15f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,5D,<img src='5D.png'></img>,25f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,5[D],<img src='5[D].png'></img>,33f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,236P,<img src='236P.png'></img>,0f,Ground Gatling,nan <br> 
+5H,<img src='5H.png'></img>,623S,<img src='623S.png'></img>,-9f,Ground Gatling,nan <br> 
+5H,<img src='5H.png'></img>,623H,<img src='623H.png'></img>,-5f,Ground Gatling,nan <br> 
+5H,<img src='5H.png'></img>,j623S,<img src='j623S.png'></img>,18f,Ground Non-Jump Cancel,nan <br> 
+5H,<img src='5H.png'></img>,j623H,<img src='j623H.png'></img>,22f,Ground Non-Jump Cancel,nan <br> 
+5H,<img src='5H.png'></img>,236K,<img src='236K.png'></img>,-6f,Ground Gatling,nan <br> 
+5H,<img src='5H.png'></img>,j236K,<img src='j236K.png'></img>,19f,Ground Non-Jump Cancel,nan <br> 
+5H,<img src='5H.png'></img>,214K,<img src='214K.png'></img>,12f,Ground Gatling,nan <br> 
+5H,<img src='5H.png'></img>,j214K,<img src='j214K.png'></img>,31f,Ground Non-Jump Cancel,nan <br> 
+5H,<img src='5H.png'></img>,j214[K],<img src='j214[K].png'></img>,39f,Ground Non-Jump Cancel,nan <br> 
+5H,<img src='5H.png'></img>,623K,<img src='623K.png'></img>,-12f,Ground Gatling,nan <br> 
+5H,<img src='5H.png'></img>,214S,<img src='214S.png'></img>,20f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,214[S],<img src='214[S].png'></img>,37f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,41236H,<img src='41236H.png'></img>,29f,Ground Non-Gatling,nan <br> 
+5H,<img src='5H.png'></img>,632146H,<img src='632146H.png'></img>,-9f,Ground Gatling,nan <br> 
+5H,<img src='5H.png'></img>,214214H,<img src='214214H.png'></img>,25f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,5P,<img src='5P.png'></img>,19f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,5K,<img src='5K.png'></img>,18f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,cS,<img src='cS.png'></img>,22f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,fS,<img src='fS.png'></img>,25f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,5H,<img src='5H.png'></img>,26f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,2P,<img src='2P.png'></img>,20f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,2K,<img src='2K.png'></img>,21f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,2S,<img src='2S.png'></img>,25f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,2H,<img src='2H.png'></img>,26f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,jP,<img src='jP.png'></img>,24f,Ground Non-Jump Cancel,nan <br> 
+5D,<img src='5D.png'></img>,jK,<img src='jK.png'></img>,25f,Ground Non-Jump Cancel,nan <br> 
+5D,<img src='5D.png'></img>,jS,<img src='jS.png'></img>,29f,Ground Non-Jump Cancel,nan <br> 
+5D,<img src='5D.png'></img>,jH,<img src='jH.png'></img>,30f,Ground Non-Jump Cancel,nan <br> 
+5D,<img src='5D.png'></img>,jD,<img src='jD.png'></img>,28f,Ground Non-Jump Cancel,nan <br> 
+5D,<img src='5D.png'></img>,6P,<img src='6P.png'></img>,24f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,6S,<img src='6S.png'></img>,30f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,6H,<img src='6H.png'></img>,24f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,2D,<img src='2D.png'></img>,25f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,5D,<img src='5D.png'></img>,35f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,5[D],<img src='5[D].png'></img>,43f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,236P,<img src='236P.png'></img>,33f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,623S,<img src='623S.png'></img>,24f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,623H,<img src='623H.png'></img>,28f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,j623S,<img src='j623S.png'></img>,28f,Ground Non-Jump Cancel,nan <br> 
+5D,<img src='5D.png'></img>,j623H,<img src='j623H.png'></img>,32f,Ground Non-Jump Cancel,nan <br> 
+5D,<img src='5D.png'></img>,236K,<img src='236K.png'></img>,27f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,j236K,<img src='j236K.png'></img>,29f,Ground Non-Jump Cancel,nan <br> 
+5D,<img src='5D.png'></img>,214K,<img src='214K.png'></img>,45f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,j214K,<img src='j214K.png'></img>,41f,Ground Non-Jump Cancel,nan <br> 
+5D,<img src='5D.png'></img>,j214[K],<img src='j214[K].png'></img>,49f,Ground Non-Jump Cancel,nan <br> 
+5D,<img src='5D.png'></img>,623K,<img src='623K.png'></img>,21f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,214S,<img src='214S.png'></img>,30f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,214[S],<img src='214[S].png'></img>,47f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,41236H,<img src='41236H.png'></img>,39f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,632146H,<img src='632146H.png'></img>,24f,Ground Non-Gatling,nan <br> 
+5D,<img src='5D.png'></img>,214214H,<img src='214214H.png'></img>,35f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,5P,<img src='5P.png'></img>,14f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,5K,<img src='5K.png'></img>,13f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,cS,<img src='cS.png'></img>,17f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,fS,<img src='fS.png'></img>,20f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,5H,<img src='5H.png'></img>,21f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,2P,<img src='2P.png'></img>,15f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,2K,<img src='2K.png'></img>,16f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,2S,<img src='2S.png'></img>,20f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,2H,<img src='2H.png'></img>,21f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,jP,<img src='jP.png'></img>,19f,Ground Non-Jump Cancel,nan <br> 
+5[D],<img src='5[D].png'></img>,jK,<img src='jK.png'></img>,20f,Ground Non-Jump Cancel,nan <br> 
+5[D],<img src='5[D].png'></img>,jS,<img src='jS.png'></img>,24f,Ground Non-Jump Cancel,nan <br> 
+5[D],<img src='5[D].png'></img>,jH,<img src='jH.png'></img>,25f,Ground Non-Jump Cancel,nan <br> 
+5[D],<img src='5[D].png'></img>,jD,<img src='jD.png'></img>,23f,Ground Non-Jump Cancel,nan <br> 
+5[D],<img src='5[D].png'></img>,6P,<img src='6P.png'></img>,19f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,6S,<img src='6S.png'></img>,25f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,6H,<img src='6H.png'></img>,19f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,2D,<img src='2D.png'></img>,20f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,5D,<img src='5D.png'></img>,30f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,5[D],<img src='5[D].png'></img>,38f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,236P,<img src='236P.png'></img>,28f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,623S,<img src='623S.png'></img>,19f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,623H,<img src='623H.png'></img>,23f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,j623S,<img src='j623S.png'></img>,23f,Ground Non-Jump Cancel,nan <br> 
+5[D],<img src='5[D].png'></img>,j623H,<img src='j623H.png'></img>,27f,Ground Non-Jump Cancel,nan <br> 
+5[D],<img src='5[D].png'></img>,236K,<img src='236K.png'></img>,22f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,j236K,<img src='j236K.png'></img>,24f,Ground Non-Jump Cancel,nan <br> 
+5[D],<img src='5[D].png'></img>,214K,<img src='214K.png'></img>,40f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,j214K,<img src='j214K.png'></img>,36f,Ground Non-Jump Cancel,nan <br> 
+5[D],<img src='5[D].png'></img>,j214[K],<img src='j214[K].png'></img>,44f,Ground Non-Jump Cancel,nan <br> 
+5[D],<img src='5[D].png'></img>,623K,<img src='623K.png'></img>,16f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,214S,<img src='214S.png'></img>,25f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,214[S],<img src='214[S].png'></img>,42f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,41236H,<img src='41236H.png'></img>,34f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,632146H,<img src='632146H.png'></img>,19f,Ground Non-Gatling,nan <br> 
+5[D],<img src='5[D].png'></img>,214214H,<img src='214214H.png'></img>,30f,Ground Non-Gatling,nan <br> 
+2P,<img src='2P.png'></img>,5P,<img src='5P.png'></img>,-5f,Ground Gatling,nan <br> 
+2P,<img src='2P.png'></img>,5K,<img src='5K.png'></img>,5f,Ground Non-Gatling,nan <br> 
+2P,<img src='2P.png'></img>,cS,<img src='cS.png'></img>,9f,Ground Non-Gatling,nan <br> 
+2P,<img src='2P.png'></img>,fS,<img src='fS.png'></img>,12f,Ground Non-Gatling,nan <br> 
+2P,<img src='2P.png'></img>,5H,<img src='5H.png'></img>,13f,Ground Non-Gatling,nan <br> 
+2P,<img src='2P.png'></img>,2P,<img src='2P.png'></img>,-4f,Ground Gatling,nan <br> 
+2P,<img src='2P.png'></img>,2K,<img src='2K.png'></img>,8f,Ground Non-Gatling,nan <br> 
+2P,<img src='2P.png'></img>,2S,<img src='2S.png'></img>,12f,Ground Non-Gatling,nan <br> 
+2P,<img src='2P.png'></img>,2H,<img src='2H.png'></img>,13f,Ground Non-Gatling,nan <br> 
+2P,<img src='2P.png'></img>,jP,<img src='jP.png'></img>,11f,Ground Non-Jump Cancel,nan <br> 
+2P,<img src='2P.png'></img>,jK,<img src='jK.png'></img>,12f,Ground Non-Jump Cancel,nan <br> 
+2P,<img src='2P.png'></img>,jS,<img src='jS.png'></img>,16f,Ground Non-Jump Cancel,nan <br> 
+2P,<img src='2P.png'></img>,jH,<img src='jH.png'></img>,17f,Ground Non-Jump Cancel,nan <br> 
+2P,<img src='2P.png'></img>,jD,<img src='jD.png'></img>,15f,Ground Non-Jump Cancel,nan <br> 
+2P,<img src='2P.png'></img>,6P,<img src='6P.png'></img>,0f,Ground Gatling,nan <br> 
+2P,<img src='2P.png'></img>,6S,<img src='6S.png'></img>,6f,Ground Gatling,nan <br> 
+2P,<img src='2P.png'></img>,6H,<img src='6H.png'></img>,0f,Ground Gatling,nan <br> 
+2P,<img src='2P.png'></img>,2D,<img src='2D.png'></img>,12f,Ground Non-Gatling,nan <br> 
+2P,<img src='2P.png'></img>,5D,<img src='5D.png'></img>,22f,Ground Non-Gatling,nan <br> 
+2P,<img src='2P.png'></img>,5[D],<img src='5[D].png'></img>,30f,Ground Non-Gatling,nan <br> 
+2P,<img src='2P.png'></img>,236P,<img src='236P.png'></img>,9f,Ground Gatling,nan <br> 
+2P,<img src='2P.png'></img>,623S,<img src='623S.png'></img>,0f,Ground Gatling,nan <br> 
+2P,<img src='2P.png'></img>,623H,<img src='623H.png'></img>,4f,Ground Gatling,nan <br> 
+2P,<img src='2P.png'></img>,j623S,<img src='j623S.png'></img>,15f,Ground Non-Jump Cancel,nan <br> 
+2P,<img src='2P.png'></img>,j623H,<img src='j623H.png'></img>,19f,Ground Non-Jump Cancel,nan <br> 
+2P,<img src='2P.png'></img>,236K,<img src='236K.png'></img>,3f,Ground Gatling,nan <br> 
+2P,<img src='2P.png'></img>,j236K,<img src='j236K.png'></img>,16f,Ground Non-Jump Cancel,nan <br> 
+2P,<img src='2P.png'></img>,214K,<img src='214K.png'></img>,21f,Ground Gatling,nan <br> 
+2P,<img src='2P.png'></img>,j214K,<img src='j214K.png'></img>,28f,Ground Non-Jump Cancel,nan <br> 
+2P,<img src='2P.png'></img>,j214[K],<img src='j214[K].png'></img>,36f,Ground Non-Jump Cancel,nan <br> 
+2P,<img src='2P.png'></img>,623K,<img src='623K.png'></img>,-3f,Ground Gatling,nan <br> 
+2P,<img src='2P.png'></img>,214S,<img src='214S.png'></img>,17f,Ground Non-Gatling,nan <br> 
+2P,<img src='2P.png'></img>,214[S],<img src='214[S].png'></img>,34f,Ground Non-Gatling,nan <br> 
+2P,<img src='2P.png'></img>,41236H,<img src='41236H.png'></img>,26f,Ground Non-Gatling,nan <br> 
+2P,<img src='2P.png'></img>,632146H,<img src='632146H.png'></img>,0f,Ground Gatling,nan <br> 
+2P,<img src='2P.png'></img>,214214H,<img src='214214H.png'></img>,22f,Ground Non-Gatling,nan <br> 
+2K,<img src='2K.png'></img>,5P,<img src='5P.png'></img>,6f,Ground Non-Gatling,nan <br> 
+2K,<img src='2K.png'></img>,5K,<img src='5K.png'></img>,5f,Ground Non-Gatling,nan <br> 
+2K,<img src='2K.png'></img>,cS,<img src='cS.png'></img>,9f,Ground Non-Gatling,nan <br> 
+2K,<img src='2K.png'></img>,fS,<img src='fS.png'></img>,12f,Ground Non-Gatling,nan <br> 
+2K,<img src='2K.png'></img>,5H,<img src='5H.png'></img>,13f,Ground Non-Gatling,nan <br> 
+2K,<img src='2K.png'></img>,2P,<img src='2P.png'></img>,7f,Ground Non-Gatling,nan <br> 
+2K,<img src='2K.png'></img>,2K,<img src='2K.png'></img>,8f,Ground Non-Gatling,nan <br> 
+2K,<img src='2K.png'></img>,2S,<img src='2S.png'></img>,12f,Ground Non-Gatling,nan <br> 
+2K,<img src='2K.png'></img>,2H,<img src='2H.png'></img>,13f,Ground Non-Gatling,nan <br> 
+2K,<img src='2K.png'></img>,jP,<img src='jP.png'></img>,11f,Ground Non-Jump Cancel,nan <br> 
+2K,<img src='2K.png'></img>,jK,<img src='jK.png'></img>,12f,Ground Non-Jump Cancel,nan <br> 
+2K,<img src='2K.png'></img>,jS,<img src='jS.png'></img>,16f,Ground Non-Jump Cancel,nan <br> 
+2K,<img src='2K.png'></img>,jH,<img src='jH.png'></img>,17f,Ground Non-Jump Cancel,nan <br> 
+2K,<img src='2K.png'></img>,jD,<img src='jD.png'></img>,15f,Ground Non-Jump Cancel,nan <br> 
+2K,<img src='2K.png'></img>,6P,<img src='6P.png'></img>,-2f,Ground Gatling,nan <br> 
+2K,<img src='2K.png'></img>,6S,<img src='6S.png'></img>,4f,Ground Gatling,nan <br> 
+2K,<img src='2K.png'></img>,6H,<img src='6H.png'></img>,-2f,Ground Gatling,nan <br> 
+2K,<img src='2K.png'></img>,2D,<img src='2D.png'></img>,-1f,Ground Gatling,nan <br> 
+2K,<img src='2K.png'></img>,5D,<img src='5D.png'></img>,9f,Ground Gatling,nan <br> 
+2K,<img src='2K.png'></img>,5[D],<img src='5[D].png'></img>,17f,Ground Gatling,nan <br> 
+2K,<img src='2K.png'></img>,236P,<img src='236P.png'></img>,7f,Ground Gatling,nan <br> 
+2K,<img src='2K.png'></img>,623S,<img src='623S.png'></img>,-2f,Ground Gatling,nan <br> 
+2K,<img src='2K.png'></img>,623H,<img src='623H.png'></img>,2f,Ground Gatling,nan <br> 
+2K,<img src='2K.png'></img>,j623S,<img src='j623S.png'></img>,15f,Ground Non-Jump Cancel,nan <br> 
+2K,<img src='2K.png'></img>,j623H,<img src='j623H.png'></img>,19f,Ground Non-Jump Cancel,nan <br> 
+2K,<img src='2K.png'></img>,236K,<img src='236K.png'></img>,1f,Ground Gatling,nan <br> 
+2K,<img src='2K.png'></img>,j236K,<img src='j236K.png'></img>,16f,Ground Non-Jump Cancel,nan <br> 
+2K,<img src='2K.png'></img>,214K,<img src='214K.png'></img>,19f,Ground Gatling,nan <br> 
+2K,<img src='2K.png'></img>,j214K,<img src='j214K.png'></img>,28f,Ground Non-Jump Cancel,nan <br> 
+2K,<img src='2K.png'></img>,j214[K],<img src='j214[K].png'></img>,36f,Ground Non-Jump Cancel,nan <br> 
+2K,<img src='2K.png'></img>,623K,<img src='623K.png'></img>,-5f,Ground Gatling,nan <br> 
+2K,<img src='2K.png'></img>,214S,<img src='214S.png'></img>,17f,Ground Non-Gatling,nan <br> 
+2K,<img src='2K.png'></img>,214[S],<img src='214[S].png'></img>,34f,Ground Non-Gatling,nan <br> 
+2K,<img src='2K.png'></img>,41236H,<img src='41236H.png'></img>,26f,Ground Non-Gatling,nan <br> 
+2K,<img src='2K.png'></img>,632146H,<img src='632146H.png'></img>,-2f,Ground Gatling,nan <br> 
+2K,<img src='2K.png'></img>,214214H,<img src='214214H.png'></img>,22f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,5P,<img src='5P.png'></img>,11f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,5K,<img src='5K.png'></img>,10f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,cS,<img src='cS.png'></img>,14f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,fS,<img src='fS.png'></img>,17f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,5H,<img src='5H.png'></img>,-2f,Ground Gatling,nan <br> 
+2S,<img src='2S.png'></img>,2P,<img src='2P.png'></img>,12f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,2K,<img src='2K.png'></img>,13f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,2S,<img src='2S.png'></img>,17f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,2H,<img src='2H.png'></img>,-2f,Ground Gatling,nan <br> 
+2S,<img src='2S.png'></img>,jP,<img src='jP.png'></img>,16f,Ground Non-Jump Cancel,nan <br> 
+2S,<img src='2S.png'></img>,jK,<img src='jK.png'></img>,17f,Ground Non-Jump Cancel,nan <br> 
+2S,<img src='2S.png'></img>,jS,<img src='jS.png'></img>,21f,Ground Non-Jump Cancel,nan <br> 
+2S,<img src='2S.png'></img>,jH,<img src='jH.png'></img>,22f,Ground Non-Jump Cancel,nan <br> 
+2S,<img src='2S.png'></img>,jD,<img src='jD.png'></img>,20f,Ground Non-Jump Cancel,nan <br> 
+2S,<img src='2S.png'></img>,6P,<img src='6P.png'></img>,16f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,6S,<img src='6S.png'></img>,22f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,6H,<img src='6H.png'></img>,16f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,2D,<img src='2D.png'></img>,17f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,5D,<img src='5D.png'></img>,27f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,5[D],<img src='5[D].png'></img>,35f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,236P,<img src='236P.png'></img>,5f,Ground Gatling,nan <br> 
+2S,<img src='2S.png'></img>,623S,<img src='623S.png'></img>,-4f,Ground Gatling,nan <br> 
+2S,<img src='2S.png'></img>,623H,<img src='623H.png'></img>,0f,Ground Gatling,nan <br> 
+2S,<img src='2S.png'></img>,j623S,<img src='j623S.png'></img>,20f,Ground Non-Jump Cancel,nan <br> 
+2S,<img src='2S.png'></img>,j623H,<img src='j623H.png'></img>,24f,Ground Non-Jump Cancel,nan <br> 
+2S,<img src='2S.png'></img>,236K,<img src='236K.png'></img>,-1f,Ground Gatling,nan <br> 
+2S,<img src='2S.png'></img>,j236K,<img src='j236K.png'></img>,21f,Ground Non-Jump Cancel,nan <br> 
+2S,<img src='2S.png'></img>,214K,<img src='214K.png'></img>,17f,Ground Gatling,nan <br> 
+2S,<img src='2S.png'></img>,j214K,<img src='j214K.png'></img>,33f,Ground Non-Jump Cancel,nan <br> 
+2S,<img src='2S.png'></img>,j214[K],<img src='j214[K].png'></img>,41f,Ground Non-Jump Cancel,nan <br> 
+2S,<img src='2S.png'></img>,623K,<img src='623K.png'></img>,-7f,Ground Gatling,nan <br> 
+2S,<img src='2S.png'></img>,214S,<img src='214S.png'></img>,22f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,214[S],<img src='214[S].png'></img>,39f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,41236H,<img src='41236H.png'></img>,31f,Ground Non-Gatling,nan <br> 
+2S,<img src='2S.png'></img>,632146H,<img src='632146H.png'></img>,-4f,Ground Gatling,nan <br> 
+2S,<img src='2S.png'></img>,214214H,<img src='214214H.png'></img>,27f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,5P,<img src='5P.png'></img>,21f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,5K,<img src='5K.png'></img>,20f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,cS,<img src='cS.png'></img>,24f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,fS,<img src='fS.png'></img>,27f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,5H,<img src='5H.png'></img>,28f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,2P,<img src='2P.png'></img>,22f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,2K,<img src='2K.png'></img>,23f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,2S,<img src='2S.png'></img>,27f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,2H,<img src='2H.png'></img>,28f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,jP,<img src='jP.png'></img>,26f,Ground Non-Jump Cancel,nan <br> 
+2H,<img src='2H.png'></img>,jK,<img src='jK.png'></img>,27f,Ground Non-Jump Cancel,nan <br> 
+2H,<img src='2H.png'></img>,jS,<img src='jS.png'></img>,31f,Ground Non-Jump Cancel,nan <br> 
+2H,<img src='2H.png'></img>,jH,<img src='jH.png'></img>,32f,Ground Non-Jump Cancel,nan <br> 
+2H,<img src='2H.png'></img>,jD,<img src='jD.png'></img>,30f,Ground Non-Jump Cancel,nan <br> 
+2H,<img src='2H.png'></img>,6P,<img src='6P.png'></img>,26f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,6S,<img src='6S.png'></img>,32f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,6H,<img src='6H.png'></img>,26f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,2D,<img src='2D.png'></img>,27f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,5D,<img src='5D.png'></img>,37f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,5[D],<img src='5[D].png'></img>,45f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,236P,<img src='236P.png'></img>,0f,Ground Gatling,nan <br> 
+2H,<img src='2H.png'></img>,623S,<img src='623S.png'></img>,-9f,Ground Gatling,nan <br> 
+2H,<img src='2H.png'></img>,623H,<img src='623H.png'></img>,-5f,Ground Gatling,nan <br> 
+2H,<img src='2H.png'></img>,j623S,<img src='j623S.png'></img>,30f,Ground Non-Jump Cancel,nan <br> 
+2H,<img src='2H.png'></img>,j623H,<img src='j623H.png'></img>,34f,Ground Non-Jump Cancel,nan <br> 
+2H,<img src='2H.png'></img>,236K,<img src='236K.png'></img>,-6f,Ground Gatling,nan <br> 
+2H,<img src='2H.png'></img>,j236K,<img src='j236K.png'></img>,31f,Ground Non-Jump Cancel,nan <br> 
+2H,<img src='2H.png'></img>,214K,<img src='214K.png'></img>,12f,Ground Gatling,nan <br> 
+2H,<img src='2H.png'></img>,j214K,<img src='j214K.png'></img>,43f,Ground Non-Jump Cancel,nan <br> 
+2H,<img src='2H.png'></img>,j214[K],<img src='j214[K].png'></img>,51f,Ground Non-Jump Cancel,nan <br> 
+2H,<img src='2H.png'></img>,623K,<img src='623K.png'></img>,-12f,Ground Gatling,nan <br> 
+2H,<img src='2H.png'></img>,214S,<img src='214S.png'></img>,32f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,214[S],<img src='214[S].png'></img>,49f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,41236H,<img src='41236H.png'></img>,41f,Ground Non-Gatling,nan <br> 
+2H,<img src='2H.png'></img>,632146H,<img src='632146H.png'></img>,-9f,Ground Gatling,nan <br> 
+2H,<img src='2H.png'></img>,214214H,<img src='214214H.png'></img>,37f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,5P,<img src='5P.png'></img>,8f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,5K,<img src='5K.png'></img>,7f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,cS,<img src='cS.png'></img>,11f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,fS,<img src='fS.png'></img>,14f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,5H,<img src='5H.png'></img>,15f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,2P,<img src='2P.png'></img>,9f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,2K,<img src='2K.png'></img>,10f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,2S,<img src='2S.png'></img>,14f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,2H,<img src='2H.png'></img>,15f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,jP,<img src='jP.png'></img>,13f,Ground Non-Jump Cancel,nan <br> 
+2D,<img src='2D.png'></img>,jK,<img src='jK.png'></img>,14f,Ground Non-Jump Cancel,nan <br> 
+2D,<img src='2D.png'></img>,jS,<img src='jS.png'></img>,18f,Ground Non-Jump Cancel,nan <br> 
+2D,<img src='2D.png'></img>,jH,<img src='jH.png'></img>,19f,Ground Non-Jump Cancel,nan <br> 
+2D,<img src='2D.png'></img>,jD,<img src='jD.png'></img>,17f,Ground Non-Jump Cancel,nan <br> 
+2D,<img src='2D.png'></img>,6P,<img src='6P.png'></img>,13f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,6S,<img src='6S.png'></img>,19f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,6H,<img src='6H.png'></img>,13f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,2D,<img src='2D.png'></img>,14f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,5D,<img src='5D.png'></img>,24f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,5[D],<img src='5[D].png'></img>,32f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,236P,<img src='236P.png'></img>,2f,Ground Gatling,nan <br> 
+2D,<img src='2D.png'></img>,623S,<img src='623S.png'></img>,-7f,Ground Gatling,nan <br> 
+2D,<img src='2D.png'></img>,623H,<img src='623H.png'></img>,-3f,Ground Gatling,nan <br> 
+2D,<img src='2D.png'></img>,j623S,<img src='j623S.png'></img>,17f,Ground Non-Jump Cancel,nan <br> 
+2D,<img src='2D.png'></img>,j623H,<img src='j623H.png'></img>,21f,Ground Non-Jump Cancel,nan <br> 
+2D,<img src='2D.png'></img>,236K,<img src='236K.png'></img>,-4f,Ground Gatling,nan <br> 
+2D,<img src='2D.png'></img>,j236K,<img src='j236K.png'></img>,18f,Ground Non-Jump Cancel,nan <br> 
+2D,<img src='2D.png'></img>,214K,<img src='214K.png'></img>,14f,Ground Gatling,nan <br> 
+2D,<img src='2D.png'></img>,j214K,<img src='j214K.png'></img>,30f,Ground Non-Jump Cancel,nan <br> 
+2D,<img src='2D.png'></img>,j214[K],<img src='j214[K].png'></img>,38f,Ground Non-Jump Cancel,nan <br> 
+2D,<img src='2D.png'></img>,623K,<img src='623K.png'></img>,-10f,Ground Gatling,nan <br> 
+2D,<img src='2D.png'></img>,214S,<img src='214S.png'></img>,19f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,214[S],<img src='214[S].png'></img>,36f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,41236H,<img src='41236H.png'></img>,28f,Ground Non-Gatling,nan <br> 
+2D,<img src='2D.png'></img>,632146H,<img src='632146H.png'></img>,-7f,Ground Gatling,nan <br> 
+2D,<img src='2D.png'></img>,214214H,<img src='214214H.png'></img>,24f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,5P,<img src='5P.png'></img>,15f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,5K,<img src='5K.png'></img>,14f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,cS,<img src='cS.png'></img>,18f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,fS,<img src='fS.png'></img>,21f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,5H,<img src='5H.png'></img>,22f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,2P,<img src='2P.png'></img>,16f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,2K,<img src='2K.png'></img>,17f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,2S,<img src='2S.png'></img>,21f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,2H,<img src='2H.png'></img>,22f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,jP,<img src='jP.png'></img>,20f,Ground Non-Jump Cancel,nan <br> 
+6P,<img src='6P.png'></img>,jK,<img src='jK.png'></img>,21f,Ground Non-Jump Cancel,nan <br> 
+6P,<img src='6P.png'></img>,jS,<img src='jS.png'></img>,25f,Ground Non-Jump Cancel,nan <br> 
+6P,<img src='6P.png'></img>,jH,<img src='jH.png'></img>,26f,Ground Non-Jump Cancel,nan <br> 
+6P,<img src='6P.png'></img>,jD,<img src='jD.png'></img>,24f,Ground Non-Jump Cancel,nan <br> 
+6P,<img src='6P.png'></img>,6P,<img src='6P.png'></img>,20f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,6S,<img src='6S.png'></img>,26f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,6H,<img src='6H.png'></img>,20f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,2D,<img src='2D.png'></img>,21f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,5D,<img src='5D.png'></img>,31f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,5[D],<img src='5[D].png'></img>,39f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,236P,<img src='236P.png'></img>,5f,Ground Gatling,nan <br> 
+6P,<img src='6P.png'></img>,623S,<img src='623S.png'></img>,-4f,Ground Gatling,nan <br> 
+6P,<img src='6P.png'></img>,623H,<img src='623H.png'></img>,0f,Ground Gatling,nan <br> 
+6P,<img src='6P.png'></img>,j623S,<img src='j623S.png'></img>,24f,Ground Non-Jump Cancel,nan <br> 
+6P,<img src='6P.png'></img>,j623H,<img src='j623H.png'></img>,28f,Ground Non-Jump Cancel,nan <br> 
+6P,<img src='6P.png'></img>,236K,<img src='236K.png'></img>,-1f,Ground Gatling,nan <br> 
+6P,<img src='6P.png'></img>,j236K,<img src='j236K.png'></img>,25f,Ground Non-Jump Cancel,nan <br> 
+6P,<img src='6P.png'></img>,214K,<img src='214K.png'></img>,17f,Ground Gatling,nan <br> 
+6P,<img src='6P.png'></img>,j214K,<img src='j214K.png'></img>,37f,Ground Non-Jump Cancel,nan <br> 
+6P,<img src='6P.png'></img>,j214[K],<img src='j214[K].png'></img>,45f,Ground Non-Jump Cancel,nan <br> 
+6P,<img src='6P.png'></img>,623K,<img src='623K.png'></img>,-7f,Ground Gatling,nan <br> 
+6P,<img src='6P.png'></img>,214S,<img src='214S.png'></img>,26f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,214[S],<img src='214[S].png'></img>,43f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,41236H,<img src='41236H.png'></img>,35f,Ground Non-Gatling,nan <br> 
+6P,<img src='6P.png'></img>,632146H,<img src='632146H.png'></img>,-4f,Ground Gatling,nan <br> 
+6P,<img src='6P.png'></img>,214214H,<img src='214214H.png'></img>,31f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,5P,<img src='5P.png'></img>,13f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,5K,<img src='5K.png'></img>,12f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,cS,<img src='cS.png'></img>,16f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,fS,<img src='fS.png'></img>,19f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,5H,<img src='5H.png'></img>,20f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,2P,<img src='2P.png'></img>,14f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,2K,<img src='2K.png'></img>,15f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,2S,<img src='2S.png'></img>,19f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,2H,<img src='2H.png'></img>,20f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,jP,<img src='jP.png'></img>,18f,Ground Non-Jump Cancel,nan <br> 
+6S,<img src='6S.png'></img>,jK,<img src='jK.png'></img>,19f,Ground Non-Jump Cancel,nan <br> 
+6S,<img src='6S.png'></img>,jS,<img src='jS.png'></img>,23f,Ground Non-Jump Cancel,nan <br> 
+6S,<img src='6S.png'></img>,jH,<img src='jH.png'></img>,24f,Ground Non-Jump Cancel,nan <br> 
+6S,<img src='6S.png'></img>,jD,<img src='jD.png'></img>,22f,Ground Non-Jump Cancel,nan <br> 
+6S,<img src='6S.png'></img>,6P,<img src='6P.png'></img>,18f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,6S,<img src='6S.png'></img>,24f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,6H,<img src='6H.png'></img>,18f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,2D,<img src='2D.png'></img>,19f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,5D,<img src='5D.png'></img>,29f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,5[D],<img src='5[D].png'></img>,37f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,236P,<img src='236P.png'></img>,2f,Ground Gatling,nan <br> 
+6S,<img src='6S.png'></img>,623S,<img src='623S.png'></img>,-7f,Ground Gatling,nan <br> 
+6S,<img src='6S.png'></img>,623H,<img src='623H.png'></img>,-3f,Ground Gatling,nan <br> 
+6S,<img src='6S.png'></img>,j623S,<img src='j623S.png'></img>,22f,Ground Non-Jump Cancel,nan <br> 
+6S,<img src='6S.png'></img>,j623H,<img src='j623H.png'></img>,26f,Ground Non-Jump Cancel,nan <br> 
+6S,<img src='6S.png'></img>,236K,<img src='236K.png'></img>,-4f,Ground Gatling,nan <br> 
+6S,<img src='6S.png'></img>,j236K,<img src='j236K.png'></img>,23f,Ground Non-Jump Cancel,nan <br> 
+6S,<img src='6S.png'></img>,214K,<img src='214K.png'></img>,14f,Ground Gatling,nan <br> 
+6S,<img src='6S.png'></img>,j214K,<img src='j214K.png'></img>,35f,Ground Non-Jump Cancel,nan <br> 
+6S,<img src='6S.png'></img>,j214[K],<img src='j214[K].png'></img>,43f,Ground Non-Jump Cancel,nan <br> 
+6S,<img src='6S.png'></img>,623K,<img src='623K.png'></img>,-10f,Ground Gatling,nan <br> 
+6S,<img src='6S.png'></img>,214S,<img src='214S.png'></img>,24f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,214[S],<img src='214[S].png'></img>,41f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,41236H,<img src='41236H.png'></img>,33f,Ground Non-Gatling,nan <br> 
+6S,<img src='6S.png'></img>,632146H,<img src='632146H.png'></img>,-7f,Ground Gatling,nan <br> 
+6S,<img src='6S.png'></img>,214214H,<img src='214214H.png'></img>,29f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,5P,<img src='5P.png'></img>,31f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,5K,<img src='5K.png'></img>,30f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,cS,<img src='cS.png'></img>,34f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,fS,<img src='fS.png'></img>,37f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,5H,<img src='5H.png'></img>,38f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,2P,<img src='2P.png'></img>,32f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,2K,<img src='2K.png'></img>,33f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,2S,<img src='2S.png'></img>,37f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,2H,<img src='2H.png'></img>,38f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,jP,<img src='jP.png'></img>,36f,Ground Non-Jump Cancel,nan <br> 
+6H,<img src='6H.png'></img>,jK,<img src='jK.png'></img>,37f,Ground Non-Jump Cancel,nan <br> 
+6H,<img src='6H.png'></img>,jS,<img src='jS.png'></img>,41f,Ground Non-Jump Cancel,nan <br> 
+6H,<img src='6H.png'></img>,jH,<img src='jH.png'></img>,42f,Ground Non-Jump Cancel,nan <br> 
+6H,<img src='6H.png'></img>,jD,<img src='jD.png'></img>,40f,Ground Non-Jump Cancel,nan <br> 
+6H,<img src='6H.png'></img>,6P,<img src='6P.png'></img>,36f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,6S,<img src='6S.png'></img>,42f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,6H,<img src='6H.png'></img>,36f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,2D,<img src='2D.png'></img>,37f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,5D,<img src='5D.png'></img>,47f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,5[D],<img src='5[D].png'></img>,55f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,236P,<img src='236P.png'></img>,45f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,623S,<img src='623S.png'></img>,36f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,623H,<img src='623H.png'></img>,40f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,j623S,<img src='j623S.png'></img>,40f,Ground Non-Jump Cancel,nan <br> 
+6H,<img src='6H.png'></img>,j623H,<img src='j623H.png'></img>,44f,Ground Non-Jump Cancel,nan <br> 
+6H,<img src='6H.png'></img>,236K,<img src='236K.png'></img>,39f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,j236K,<img src='j236K.png'></img>,41f,Ground Non-Jump Cancel,nan <br> 
+6H,<img src='6H.png'></img>,214K,<img src='214K.png'></img>,57f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,j214K,<img src='j214K.png'></img>,53f,Ground Non-Jump Cancel,nan <br> 
+6H,<img src='6H.png'></img>,j214[K],<img src='j214[K].png'></img>,61f,Ground Non-Jump Cancel,nan <br> 
+6H,<img src='6H.png'></img>,623K,<img src='623K.png'></img>,33f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,214S,<img src='214S.png'></img>,42f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,214[S],<img src='214[S].png'></img>,59f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,41236H,<img src='41236H.png'></img>,51f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,632146H,<img src='632146H.png'></img>,36f,Ground Non-Gatling,nan <br> 
+6H,<img src='6H.png'></img>,214214H,<img src='214214H.png'></img>,47f,Ground Non-Gatling,nan <br> 
+jP,<img src='jP.png'></img>,5P,<img src='5P.png'></img>,-5f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,5K,<img src='5K.png'></img>,-6f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,cS,<img src='cS.png'></img>,-2f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,fS,<img src='fS.png'></img>,1f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,5H,<img src='5H.png'></img>,2f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,2P,<img src='2P.png'></img>,-4f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,2K,<img src='2K.png'></img>,-3f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,2S,<img src='2S.png'></img>,1f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,2H,<img src='2H.png'></img>,2f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,jP,<img src='jP.png'></img>,-4f,Air Gatling,nan <br> 
+jP,<img src='jP.png'></img>,jK,<img src='jK.png'></img>,8f,Air Non-Gatling,nan <br> 
+jP,<img src='jP.png'></img>,jS,<img src='jS.png'></img>,12f,Air Non-Gatling,nan <br> 
+jP,<img src='jP.png'></img>,jH,<img src='jH.png'></img>,13f,Air Non-Gatling,nan <br> 
+jP,<img src='jP.png'></img>,jD,<img src='jD.png'></img>,11f,Air Non-Gatling,nan <br> 
+jP,<img src='jP.png'></img>,6P,<img src='6P.png'></img>,0f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,6S,<img src='6S.png'></img>,6f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,6H,<img src='6H.png'></img>,0f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,2D,<img src='2D.png'></img>,1f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,5D,<img src='5D.png'></img>,11f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,5[D],<img src='5[D].png'></img>,19f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,236P,<img src='236P.png'></img>,9f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,623S,<img src='623S.png'></img>,0f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,623H,<img src='623H.png'></img>,4f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,j623S,<img src='j623S.png'></img>,0f,Air Gatling,nan <br> 
+jP,<img src='jP.png'></img>,j623H,<img src='j623H.png'></img>,4f,Air Gatling,nan <br> 
+jP,<img src='jP.png'></img>,236K,<img src='236K.png'></img>,3f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,j236K,<img src='j236K.png'></img>,1f,Air Gatling,nan <br> 
+jP,<img src='jP.png'></img>,214K,<img src='214K.png'></img>,21f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,j214K,<img src='j214K.png'></img>,13f,Air Gatling,nan <br> 
+jP,<img src='jP.png'></img>,j214[K],<img src='j214[K].png'></img>,21f,Air Gatling,nan <br> 
+jP,<img src='jP.png'></img>,623K,<img src='623K.png'></img>,-3f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,214S,<img src='214S.png'></img>,6f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,214[S],<img src='214[S].png'></img>,23f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,41236H,<img src='41236H.png'></img>,15f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,632146H,<img src='632146H.png'></img>,0f,Jump-in,nan <br> 
+jP,<img src='jP.png'></img>,214214H,<img src='214214H.png'></img>,11f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,5P,<img src='5P.png'></img>,-7f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,5K,<img src='5K.png'></img>,-8f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,cS,<img src='cS.png'></img>,-4f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,fS,<img src='fS.png'></img>,-1f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,5H,<img src='5H.png'></img>,0f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,2P,<img src='2P.png'></img>,-6f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,2K,<img src='2K.png'></img>,-5f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,2S,<img src='2S.png'></img>,-1f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,2H,<img src='2H.png'></img>,0f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,jP,<img src='jP.png'></img>,17f,Air Non-Gatling,nan <br> 
+jK,<img src='jK.png'></img>,jK,<img src='jK.png'></img>,18f,Air Non-Gatling,nan <br> 
+jK,<img src='jK.png'></img>,jS,<img src='jS.png'></img>,22f,Air Non-Gatling,nan <br> 
+jK,<img src='jK.png'></img>,jH,<img src='jH.png'></img>,23f,Air Non-Gatling,nan <br> 
+jK,<img src='jK.png'></img>,jD,<img src='jD.png'></img>,-2f,Air Gatling,nan <br> 
+jK,<img src='jK.png'></img>,6P,<img src='6P.png'></img>,-2f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,6S,<img src='6S.png'></img>,4f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,6H,<img src='6H.png'></img>,-2f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,2D,<img src='2D.png'></img>,-1f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,5D,<img src='5D.png'></img>,9f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,5[D],<img src='5[D].png'></img>,17f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,236P,<img src='236P.png'></img>,7f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,623S,<img src='623S.png'></img>,-2f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,623H,<img src='623H.png'></img>,2f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,j623S,<img src='j623S.png'></img>,-2f,Air Gatling,nan <br> 
+jK,<img src='jK.png'></img>,j623H,<img src='j623H.png'></img>,2f,Air Gatling,nan <br> 
+jK,<img src='jK.png'></img>,236K,<img src='236K.png'></img>,1f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,j236K,<img src='j236K.png'></img>,-1f,Air Gatling,nan <br> 
+jK,<img src='jK.png'></img>,214K,<img src='214K.png'></img>,19f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,j214K,<img src='j214K.png'></img>,11f,Air Gatling,nan <br> 
+jK,<img src='jK.png'></img>,j214[K],<img src='j214[K].png'></img>,19f,Air Gatling,nan <br> 
+jK,<img src='jK.png'></img>,623K,<img src='623K.png'></img>,-5f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,214S,<img src='214S.png'></img>,4f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,214[S],<img src='214[S].png'></img>,21f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,41236H,<img src='41236H.png'></img>,13f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,632146H,<img src='632146H.png'></img>,-2f,Jump-in,nan <br> 
+jK,<img src='jK.png'></img>,214214H,<img src='214214H.png'></img>,9f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,5P,<img src='5P.png'></img>,-9f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,5K,<img src='5K.png'></img>,-10f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,cS,<img src='cS.png'></img>,-6f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,fS,<img src='fS.png'></img>,-3f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,5H,<img src='5H.png'></img>,-2f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,2P,<img src='2P.png'></img>,-8f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,2K,<img src='2K.png'></img>,-7f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,2S,<img src='2S.png'></img>,-3f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,2H,<img src='2H.png'></img>,-2f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,jP,<img src='jP.png'></img>,18f,Air Non-Gatling,nan <br> 
+jS,<img src='jS.png'></img>,jK,<img src='jK.png'></img>,19f,Air Non-Gatling,nan <br> 
+jS,<img src='jS.png'></img>,jS,<img src='jS.png'></img>,23f,Air Non-Gatling,nan <br> 
+jS,<img src='jS.png'></img>,jH,<img src='jH.png'></img>,-2f,Air Gatling,nan <br> 
+jS,<img src='jS.png'></img>,jD,<img src='jD.png'></img>,-4f,Air Gatling,nan <br> 
+jS,<img src='jS.png'></img>,6P,<img src='6P.png'></img>,-4f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,6S,<img src='6S.png'></img>,2f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,6H,<img src='6H.png'></img>,-4f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,2D,<img src='2D.png'></img>,-3f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,5D,<img src='5D.png'></img>,7f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,5[D],<img src='5[D].png'></img>,15f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,236P,<img src='236P.png'></img>,5f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,623S,<img src='623S.png'></img>,-4f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,623H,<img src='623H.png'></img>,0f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,j623S,<img src='j623S.png'></img>,-4f,Air Gatling,nan <br> 
+jS,<img src='jS.png'></img>,j623H,<img src='j623H.png'></img>,0f,Air Gatling,nan <br> 
+jS,<img src='jS.png'></img>,236K,<img src='236K.png'></img>,-1f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,j236K,<img src='j236K.png'></img>,-3f,Air Gatling,nan <br> 
+jS,<img src='jS.png'></img>,214K,<img src='214K.png'></img>,17f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,j214K,<img src='j214K.png'></img>,9f,Air Gatling,nan <br> 
+jS,<img src='jS.png'></img>,j214[K],<img src='j214[K].png'></img>,17f,Air Gatling,nan <br> 
+jS,<img src='jS.png'></img>,623K,<img src='623K.png'></img>,-7f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,214S,<img src='214S.png'></img>,2f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,214[S],<img src='214[S].png'></img>,19f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,41236H,<img src='41236H.png'></img>,11f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,632146H,<img src='632146H.png'></img>,-4f,Jump-in,nan <br> 
+jS,<img src='jS.png'></img>,214214H,<img src='214214H.png'></img>,7f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,5P,<img src='5P.png'></img>,-9f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,5K,<img src='5K.png'></img>,-10f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,cS,<img src='cS.png'></img>,-6f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,fS,<img src='fS.png'></img>,-3f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,5H,<img src='5H.png'></img>,-2f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,2P,<img src='2P.png'></img>,-8f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,2K,<img src='2K.png'></img>,-7f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,2S,<img src='2S.png'></img>,-3f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,2H,<img src='2H.png'></img>,-2f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,jP,<img src='jP.png'></img>,4f,Air Non-Gatling,nan <br> 
+jH,<img src='jH.png'></img>,jK,<img src='jK.png'></img>,5f,Air Non-Gatling,nan <br> 
+jH,<img src='jH.png'></img>,jS,<img src='jS.png'></img>,9f,Air Non-Gatling,nan <br> 
+jH,<img src='jH.png'></img>,jH,<img src='jH.png'></img>,10f,Air Non-Gatling,nan <br> 
+jH,<img src='jH.png'></img>,jD,<img src='jD.png'></img>,-4f,Air Gatling,nan <br> 
+jH,<img src='jH.png'></img>,6P,<img src='6P.png'></img>,-4f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,6S,<img src='6S.png'></img>,2f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,6H,<img src='6H.png'></img>,-4f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,2D,<img src='2D.png'></img>,-3f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,5D,<img src='5D.png'></img>,7f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,5[D],<img src='5[D].png'></img>,15f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,236P,<img src='236P.png'></img>,5f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,623S,<img src='623S.png'></img>,-4f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,623H,<img src='623H.png'></img>,0f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,j623S,<img src='j623S.png'></img>,-4f,Air Gatling,nan <br> 
+jH,<img src='jH.png'></img>,j623H,<img src='j623H.png'></img>,0f,Air Gatling,nan <br> 
+jH,<img src='jH.png'></img>,236K,<img src='236K.png'></img>,-1f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,j236K,<img src='j236K.png'></img>,-3f,Air Gatling,nan <br> 
+jH,<img src='jH.png'></img>,214K,<img src='214K.png'></img>,17f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,j214K,<img src='j214K.png'></img>,9f,Air Gatling,nan <br> 
+jH,<img src='jH.png'></img>,j214[K],<img src='j214[K].png'></img>,17f,Air Gatling,nan <br> 
+jH,<img src='jH.png'></img>,623K,<img src='623K.png'></img>,-7f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,214S,<img src='214S.png'></img>,2f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,214[S],<img src='214[S].png'></img>,19f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,41236H,<img src='41236H.png'></img>,11f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,632146H,<img src='632146H.png'></img>,-4f,Jump-in,nan <br> 
+jH,<img src='jH.png'></img>,214214H,<img src='214214H.png'></img>,7f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,5P,<img src='5P.png'></img>,-12f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,5K,<img src='5K.png'></img>,-13f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,cS,<img src='cS.png'></img>,-9f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,fS,<img src='fS.png'></img>,-6f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,5H,<img src='5H.png'></img>,-5f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,2P,<img src='2P.png'></img>,-11f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,2K,<img src='2K.png'></img>,-10f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,2S,<img src='2S.png'></img>,-6f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,2H,<img src='2H.png'></img>,-5f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,jP,<img src='jP.png'></img>,9f,Air Non-Gatling,nan <br> 
+jD,<img src='jD.png'></img>,jK,<img src='jK.png'></img>,10f,Air Non-Gatling,nan <br> 
+jD,<img src='jD.png'></img>,jS,<img src='jS.png'></img>,14f,Air Non-Gatling,nan <br> 
+jD,<img src='jD.png'></img>,jH,<img src='jH.png'></img>,15f,Air Non-Gatling,nan <br> 
+jD,<img src='jD.png'></img>,jD,<img src='jD.png'></img>,13f,Air Non-Gatling,nan <br> 
+jD,<img src='jD.png'></img>,6P,<img src='6P.png'></img>,-7f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,6S,<img src='6S.png'></img>,-1f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,6H,<img src='6H.png'></img>,-7f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,2D,<img src='2D.png'></img>,-6f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,5D,<img src='5D.png'></img>,4f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,5[D],<img src='5[D].png'></img>,12f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,236P,<img src='236P.png'></img>,2f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,623S,<img src='623S.png'></img>,-7f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,623H,<img src='623H.png'></img>,-3f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,j623S,<img src='j623S.png'></img>,-7f,Air Gatling,nan <br> 
+jD,<img src='jD.png'></img>,j623H,<img src='j623H.png'></img>,-3f,Air Gatling,nan <br> 
+jD,<img src='jD.png'></img>,236K,<img src='236K.png'></img>,-4f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,j236K,<img src='j236K.png'></img>,-6f,Air Gatling,nan <br> 
+jD,<img src='jD.png'></img>,214K,<img src='214K.png'></img>,14f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,j214K,<img src='j214K.png'></img>,6f,Air Gatling,nan <br> 
+jD,<img src='jD.png'></img>,j214[K],<img src='j214[K].png'></img>,14f,Air Gatling,nan <br> 
+jD,<img src='jD.png'></img>,623K,<img src='623K.png'></img>,-10f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,214S,<img src='214S.png'></img>,-1f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,214[S],<img src='214[S].png'></img>,16f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,41236H,<img src='41236H.png'></img>,8f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,632146H,<img src='632146H.png'></img>,-7f,Jump-in,nan <br> 
+jD,<img src='jD.png'></img>,214214H,<img src='214214H.png'></img>,4f,Jump-in,nan <br> 
+236P,<img src='236P.png'></img>,5P,<img src='5P.png'></img>,14f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,5K,<img src='5K.png'></img>,13f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,cS,<img src='cS.png'></img>,17f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,fS,<img src='fS.png'></img>,20f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,5H,<img src='5H.png'></img>,21f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,2P,<img src='2P.png'></img>,15f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,2K,<img src='2K.png'></img>,16f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,2S,<img src='2S.png'></img>,20f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,2H,<img src='2H.png'></img>,21f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,jP,<img src='jP.png'></img>,19f,Ground Non-Jump Cancel,nan <br> 
+236P,<img src='236P.png'></img>,jK,<img src='jK.png'></img>,20f,Ground Non-Jump Cancel,nan <br> 
+236P,<img src='236P.png'></img>,jS,<img src='jS.png'></img>,24f,Ground Non-Jump Cancel,nan <br> 
+236P,<img src='236P.png'></img>,jH,<img src='jH.png'></img>,25f,Ground Non-Jump Cancel,nan <br> 
+236P,<img src='236P.png'></img>,jD,<img src='jD.png'></img>,23f,Ground Non-Jump Cancel,nan <br> 
+236P,<img src='236P.png'></img>,6P,<img src='6P.png'></img>,19f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,6S,<img src='6S.png'></img>,25f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,6H,<img src='6H.png'></img>,19f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,2D,<img src='2D.png'></img>,20f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,5D,<img src='5D.png'></img>,30f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,5[D],<img src='5[D].png'></img>,38f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,236P,<img src='236P.png'></img>,28f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,623S,<img src='623S.png'></img>,19f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,623H,<img src='623H.png'></img>,23f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,j623S,<img src='j623S.png'></img>,23f,Ground Non-Jump Cancel,nan <br> 
+236P,<img src='236P.png'></img>,j623H,<img src='j623H.png'></img>,27f,Ground Non-Jump Cancel,nan <br> 
+236P,<img src='236P.png'></img>,236K,<img src='236K.png'></img>,22f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,j236K,<img src='j236K.png'></img>,24f,Ground Non-Jump Cancel,nan <br> 
+236P,<img src='236P.png'></img>,214K,<img src='214K.png'></img>,40f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,j214K,<img src='j214K.png'></img>,36f,Ground Non-Jump Cancel,nan <br> 
+236P,<img src='236P.png'></img>,j214[K],<img src='j214[K].png'></img>,44f,Ground Non-Jump Cancel,nan <br> 
+236P,<img src='236P.png'></img>,623K,<img src='623K.png'></img>,16f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,214S,<img src='214S.png'></img>,25f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,214[S],<img src='214[S].png'></img>,42f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,41236H,<img src='41236H.png'></img>,34f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,632146H,<img src='632146H.png'></img>,19f,Ground Non-Gatling,nan <br> 
+236P,<img src='236P.png'></img>,214214H,<img src='214214H.png'></img>,30f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,5P,<img src='5P.png'></img>,32f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,5K,<img src='5K.png'></img>,31f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,cS,<img src='cS.png'></img>,35f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,fS,<img src='fS.png'></img>,38f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,5H,<img src='5H.png'></img>,39f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,2P,<img src='2P.png'></img>,33f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,2K,<img src='2K.png'></img>,34f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,2S,<img src='2S.png'></img>,38f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,2H,<img src='2H.png'></img>,39f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,jP,<img src='jP.png'></img>,37f,Ground Non-Jump Cancel,nan <br> 
+623S,<img src='623S.png'></img>,jK,<img src='jK.png'></img>,38f,Ground Non-Jump Cancel,nan <br> 
+623S,<img src='623S.png'></img>,jS,<img src='jS.png'></img>,42f,Ground Non-Jump Cancel,nan <br> 
+623S,<img src='623S.png'></img>,jH,<img src='jH.png'></img>,43f,Ground Non-Jump Cancel,nan <br> 
+623S,<img src='623S.png'></img>,jD,<img src='jD.png'></img>,41f,Ground Non-Jump Cancel,nan <br> 
+623S,<img src='623S.png'></img>,6P,<img src='6P.png'></img>,37f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,6S,<img src='6S.png'></img>,43f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,6H,<img src='6H.png'></img>,37f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,2D,<img src='2D.png'></img>,38f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,5D,<img src='5D.png'></img>,48f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,5[D],<img src='5[D].png'></img>,56f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,236P,<img src='236P.png'></img>,46f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,623S,<img src='623S.png'></img>,37f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,623H,<img src='623H.png'></img>,41f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,j623S,<img src='j623S.png'></img>,41f,Ground Non-Jump Cancel,nan <br> 
+623S,<img src='623S.png'></img>,j623H,<img src='j623H.png'></img>,45f,Ground Non-Jump Cancel,nan <br> 
+623S,<img src='623S.png'></img>,236K,<img src='236K.png'></img>,40f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,j236K,<img src='j236K.png'></img>,42f,Ground Non-Jump Cancel,nan <br> 
+623S,<img src='623S.png'></img>,214K,<img src='214K.png'></img>,58f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,j214K,<img src='j214K.png'></img>,54f,Ground Non-Jump Cancel,nan <br> 
+623S,<img src='623S.png'></img>,j214[K],<img src='j214[K].png'></img>,62f,Ground Non-Jump Cancel,nan <br> 
+623S,<img src='623S.png'></img>,623K,<img src='623K.png'></img>,34f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,214S,<img src='214S.png'></img>,43f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,214[S],<img src='214[S].png'></img>,60f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,41236H,<img src='41236H.png'></img>,52f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,632146H,<img src='632146H.png'></img>,37f,Ground Non-Gatling,nan <br> 
+623S,<img src='623S.png'></img>,214214H,<img src='214214H.png'></img>,48f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,5P,<img src='5P.png'></img>,30f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,5K,<img src='5K.png'></img>,29f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,cS,<img src='cS.png'></img>,33f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,fS,<img src='fS.png'></img>,36f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,5H,<img src='5H.png'></img>,37f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,2P,<img src='2P.png'></img>,31f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,2K,<img src='2K.png'></img>,32f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,2S,<img src='2S.png'></img>,36f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,2H,<img src='2H.png'></img>,37f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,jP,<img src='jP.png'></img>,35f,Ground Non-Jump Cancel,nan <br> 
+623H,<img src='623H.png'></img>,jK,<img src='jK.png'></img>,36f,Ground Non-Jump Cancel,nan <br> 
+623H,<img src='623H.png'></img>,jS,<img src='jS.png'></img>,40f,Ground Non-Jump Cancel,nan <br> 
+623H,<img src='623H.png'></img>,jH,<img src='jH.png'></img>,41f,Ground Non-Jump Cancel,nan <br> 
+623H,<img src='623H.png'></img>,jD,<img src='jD.png'></img>,39f,Ground Non-Jump Cancel,nan <br> 
+623H,<img src='623H.png'></img>,6P,<img src='6P.png'></img>,35f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,6S,<img src='6S.png'></img>,41f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,6H,<img src='6H.png'></img>,35f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,2D,<img src='2D.png'></img>,36f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,5D,<img src='5D.png'></img>,46f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,5[D],<img src='5[D].png'></img>,54f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,236P,<img src='236P.png'></img>,44f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,623S,<img src='623S.png'></img>,35f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,623H,<img src='623H.png'></img>,39f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,j623S,<img src='j623S.png'></img>,39f,Ground Non-Jump Cancel,nan <br> 
+623H,<img src='623H.png'></img>,j623H,<img src='j623H.png'></img>,43f,Ground Non-Jump Cancel,nan <br> 
+623H,<img src='623H.png'></img>,236K,<img src='236K.png'></img>,38f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,j236K,<img src='j236K.png'></img>,40f,Ground Non-Jump Cancel,nan <br> 
+623H,<img src='623H.png'></img>,214K,<img src='214K.png'></img>,56f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,j214K,<img src='j214K.png'></img>,52f,Ground Non-Jump Cancel,nan <br> 
+623H,<img src='623H.png'></img>,j214[K],<img src='j214[K].png'></img>,60f,Ground Non-Jump Cancel,nan <br> 
+623H,<img src='623H.png'></img>,623K,<img src='623K.png'></img>,32f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,214S,<img src='214S.png'></img>,41f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,214[S],<img src='214[S].png'></img>,58f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,41236H,<img src='41236H.png'></img>,50f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,632146H,<img src='632146H.png'></img>,35f,Ground Non-Gatling,nan <br> 
+623H,<img src='623H.png'></img>,214214H,<img src='214214H.png'></img>,46f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,5P,<img src='5P.png'></img>,11f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,5K,<img src='5K.png'></img>,10f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,cS,<img src='cS.png'></img>,14f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,fS,<img src='fS.png'></img>,17f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,5H,<img src='5H.png'></img>,18f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,2P,<img src='2P.png'></img>,12f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,2K,<img src='2K.png'></img>,13f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,2S,<img src='2S.png'></img>,17f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,2H,<img src='2H.png'></img>,18f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,jP,<img src='jP.png'></img>,16f,Ground Non-Jump Cancel,nan <br> 
+236K,<img src='236K.png'></img>,jK,<img src='jK.png'></img>,17f,Ground Non-Jump Cancel,nan <br> 
+236K,<img src='236K.png'></img>,jS,<img src='jS.png'></img>,21f,Ground Non-Jump Cancel,nan <br> 
+236K,<img src='236K.png'></img>,jH,<img src='jH.png'></img>,22f,Ground Non-Jump Cancel,nan <br> 
+236K,<img src='236K.png'></img>,jD,<img src='jD.png'></img>,20f,Ground Non-Jump Cancel,nan <br> 
+236K,<img src='236K.png'></img>,6P,<img src='6P.png'></img>,16f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,6S,<img src='6S.png'></img>,22f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,6H,<img src='6H.png'></img>,16f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,2D,<img src='2D.png'></img>,17f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,5D,<img src='5D.png'></img>,27f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,5[D],<img src='5[D].png'></img>,35f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,236P,<img src='236P.png'></img>,25f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,623S,<img src='623S.png'></img>,16f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,623H,<img src='623H.png'></img>,20f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,j623S,<img src='j623S.png'></img>,20f,Ground Non-Jump Cancel,nan <br> 
+236K,<img src='236K.png'></img>,j623H,<img src='j623H.png'></img>,24f,Ground Non-Jump Cancel,nan <br> 
+236K,<img src='236K.png'></img>,236K,<img src='236K.png'></img>,19f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,236K-K,<img src='236K-K.png'></img>,-7f,Ground Gatling,nan <br> 
+236K,<img src='236K.png'></img>,j236K,<img src='j236K.png'></img>,21f,Ground Non-Jump Cancel,nan <br> 
+236K,<img src='236K.png'></img>,214K,<img src='214K.png'></img>,37f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,j214K,<img src='j214K.png'></img>,33f,Ground Non-Jump Cancel,nan <br> 
+236K,<img src='236K.png'></img>,j214[K],<img src='j214[K].png'></img>,41f,Ground Non-Jump Cancel,nan <br> 
+236K,<img src='236K.png'></img>,623K,<img src='623K.png'></img>,13f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,214S,<img src='214S.png'></img>,22f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,214[S],<img src='214[S].png'></img>,39f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,41236H,<img src='41236H.png'></img>,31f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,632146H,<img src='632146H.png'></img>,16f,Ground Non-Gatling,nan <br> 
+236K,<img src='236K.png'></img>,214214H,<img src='214214H.png'></img>,27f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,5P,<img src='5P.png'></img>,15f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,5K,<img src='5K.png'></img>,14f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,cS,<img src='cS.png'></img>,18f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,fS,<img src='fS.png'></img>,21f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,5H,<img src='5H.png'></img>,22f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,2P,<img src='2P.png'></img>,16f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,2K,<img src='2K.png'></img>,17f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,2S,<img src='2S.png'></img>,21f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,2H,<img src='2H.png'></img>,22f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,jP,<img src='jP.png'></img>,20f,Ground Non-Jump Cancel,nan <br> 
+236K-K,<img src='236K-K.png'></img>,jK,<img src='jK.png'></img>,21f,Ground Non-Jump Cancel,nan <br> 
+236K-K,<img src='236K-K.png'></img>,jS,<img src='jS.png'></img>,25f,Ground Non-Jump Cancel,nan <br> 
+236K-K,<img src='236K-K.png'></img>,jH,<img src='jH.png'></img>,26f,Ground Non-Jump Cancel,nan <br> 
+236K-K,<img src='236K-K.png'></img>,jD,<img src='jD.png'></img>,24f,Ground Non-Jump Cancel,nan <br> 
+236K-K,<img src='236K-K.png'></img>,6P,<img src='6P.png'></img>,20f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,6S,<img src='6S.png'></img>,26f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,6H,<img src='6H.png'></img>,20f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,2D,<img src='2D.png'></img>,21f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,5D,<img src='5D.png'></img>,31f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,5[D],<img src='5[D].png'></img>,39f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,236P,<img src='236P.png'></img>,29f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,623S,<img src='623S.png'></img>,20f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,623H,<img src='623H.png'></img>,24f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,j623S,<img src='j623S.png'></img>,24f,Ground Non-Jump Cancel,nan <br> 
+236K-K,<img src='236K-K.png'></img>,j623H,<img src='j623H.png'></img>,28f,Ground Non-Jump Cancel,nan <br> 
+236K-K,<img src='236K-K.png'></img>,236K,<img src='236K.png'></img>,23f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,j236K,<img src='j236K.png'></img>,25f,Ground Non-Jump Cancel,nan <br> 
+236K-K,<img src='236K-K.png'></img>,214K,<img src='214K.png'></img>,41f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,j214K,<img src='j214K.png'></img>,37f,Ground Non-Jump Cancel,nan <br> 
+236K-K,<img src='236K-K.png'></img>,j214[K],<img src='j214[K].png'></img>,45f,Ground Non-Jump Cancel,nan <br> 
+236K-K,<img src='236K-K.png'></img>,623K,<img src='623K.png'></img>,17f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,214S,<img src='214S.png'></img>,26f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,214[S],<img src='214[S].png'></img>,43f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,41236H,<img src='41236H.png'></img>,35f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,632146H,<img src='632146H.png'></img>,20f,Ground Non-Gatling,nan <br> 
+236K-K,<img src='236K-K.png'></img>,214214H,<img src='214214H.png'></img>,31f,Ground Non-Gatling,nan <br> 
+j236K,<img src='j236K.png'></img>,5P,<img src='5P.png'></img>,-9f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,5K,<img src='5K.png'></img>,-10f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,cS,<img src='cS.png'></img>,-6f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,fS,<img src='fS.png'></img>,-3f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,5H,<img src='5H.png'></img>,-2f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,2P,<img src='2P.png'></img>,-8f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,2K,<img src='2K.png'></img>,-7f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,2S,<img src='2S.png'></img>,-3f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,2H,<img src='2H.png'></img>,-2f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,jP,<img src='jP.png'></img>,4f,Air Non-Gatling,nan <br> 
+j236K,<img src='j236K.png'></img>,jK,<img src='jK.png'></img>,5f,Air Non-Gatling,nan <br> 
+j236K,<img src='j236K.png'></img>,jS,<img src='jS.png'></img>,9f,Air Non-Gatling,nan <br> 
+j236K,<img src='j236K.png'></img>,jH,<img src='jH.png'></img>,10f,Air Non-Gatling,nan <br> 
+j236K,<img src='j236K.png'></img>,jD,<img src='jD.png'></img>,8f,Air Non-Gatling,nan <br> 
+j236K,<img src='j236K.png'></img>,6P,<img src='6P.png'></img>,-4f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,6S,<img src='6S.png'></img>,2f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,6H,<img src='6H.png'></img>,-4f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,2D,<img src='2D.png'></img>,-3f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,5D,<img src='5D.png'></img>,7f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,5[D],<img src='5[D].png'></img>,15f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,236P,<img src='236P.png'></img>,5f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,623S,<img src='623S.png'></img>,-4f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,623H,<img src='623H.png'></img>,0f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,j623S,<img src='j623S.png'></img>,8f,Air Non-Gatling,nan <br> 
+j236K,<img src='j236K.png'></img>,j623H,<img src='j623H.png'></img>,12f,Air Non-Gatling,nan <br> 
+j236K,<img src='j236K.png'></img>,236K,<img src='236K.png'></img>,-1f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,j236K,<img src='j236K.png'></img>,9f,Air Non-Gatling,nan <br> 
+j236K,<img src='j236K.png'></img>,j236K-K,<img src='j236K-K.png'></img>,-7f,Air Gatling,nan <br> 
+j236K,<img src='j236K.png'></img>,214K,<img src='214K.png'></img>,17f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,j214K,<img src='j214K.png'></img>,21f,Air Non-Gatling,nan <br> 
+j236K,<img src='j236K.png'></img>,j214[K],<img src='j214[K].png'></img>,29f,Air Non-Gatling,nan <br> 
+j236K,<img src='j236K.png'></img>,623K,<img src='623K.png'></img>,-7f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,214S,<img src='214S.png'></img>,2f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,214[S],<img src='214[S].png'></img>,19f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,41236H,<img src='41236H.png'></img>,11f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,632146H,<img src='632146H.png'></img>,-4f,Jump-in,nan <br> 
+j236K,<img src='j236K.png'></img>,214214H,<img src='214214H.png'></img>,7f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,5P,<img src='5P.png'></img>,-9f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,5K,<img src='5K.png'></img>,-10f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,cS,<img src='cS.png'></img>,-6f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,fS,<img src='fS.png'></img>,-3f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,5H,<img src='5H.png'></img>,-2f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,2P,<img src='2P.png'></img>,-8f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,2K,<img src='2K.png'></img>,-7f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,2S,<img src='2S.png'></img>,-3f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,2H,<img src='2H.png'></img>,-2f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,jP,<img src='jP.png'></img>,11f,Air Non-Gatling,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,jK,<img src='jK.png'></img>,12f,Air Non-Gatling,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,jS,<img src='jS.png'></img>,16f,Air Non-Gatling,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,jH,<img src='jH.png'></img>,17f,Air Non-Gatling,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,jD,<img src='jD.png'></img>,15f,Air Non-Gatling,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,6P,<img src='6P.png'></img>,-4f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,6S,<img src='6S.png'></img>,2f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,6H,<img src='6H.png'></img>,-4f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,2D,<img src='2D.png'></img>,-3f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,5D,<img src='5D.png'></img>,7f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,5[D],<img src='5[D].png'></img>,15f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,236P,<img src='236P.png'></img>,5f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,623S,<img src='623S.png'></img>,-4f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,623H,<img src='623H.png'></img>,0f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,j623S,<img src='j623S.png'></img>,15f,Air Non-Gatling,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,j623H,<img src='j623H.png'></img>,19f,Air Non-Gatling,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,236K,<img src='236K.png'></img>,-1f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,j236K,<img src='j236K.png'></img>,16f,Air Non-Gatling,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,214K,<img src='214K.png'></img>,17f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,j214K,<img src='j214K.png'></img>,28f,Air Non-Gatling,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,j214[K],<img src='j214[K].png'></img>,36f,Air Non-Gatling,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,623K,<img src='623K.png'></img>,-7f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,214S,<img src='214S.png'></img>,2f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,214[S],<img src='214[S].png'></img>,19f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,41236H,<img src='41236H.png'></img>,11f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,632146H,<img src='632146H.png'></img>,-4f,Jump-in,nan <br> 
+j236K-K,<img src='j236K-K.png'></img>,214214H,<img src='214214H.png'></img>,7f,Jump-in,nan <br> 
+214K,<img src='214K.png'></img>,5P,<img src='5P.png'></img>,6f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,5K,<img src='5K.png'></img>,5f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,cS,<img src='cS.png'></img>,9f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,fS,<img src='fS.png'></img>,12f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,5H,<img src='5H.png'></img>,13f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,2P,<img src='2P.png'></img>,7f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,2K,<img src='2K.png'></img>,8f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,2S,<img src='2S.png'></img>,12f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,2H,<img src='2H.png'></img>,13f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,jP,<img src='jP.png'></img>,11f,Ground Non-Jump Cancel,nan <br> 
+214K,<img src='214K.png'></img>,jK,<img src='jK.png'></img>,12f,Ground Non-Jump Cancel,nan <br> 
+214K,<img src='214K.png'></img>,jS,<img src='jS.png'></img>,16f,Ground Non-Jump Cancel,nan <br> 
+214K,<img src='214K.png'></img>,jH,<img src='jH.png'></img>,17f,Ground Non-Jump Cancel,nan <br> 
+214K,<img src='214K.png'></img>,jD,<img src='jD.png'></img>,15f,Ground Non-Jump Cancel,nan <br> 
+214K,<img src='214K.png'></img>,6P,<img src='6P.png'></img>,11f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,6S,<img src='6S.png'></img>,17f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,6H,<img src='6H.png'></img>,11f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,2D,<img src='2D.png'></img>,12f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,5D,<img src='5D.png'></img>,22f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,5[D],<img src='5[D].png'></img>,30f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,236P,<img src='236P.png'></img>,20f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,623S,<img src='623S.png'></img>,11f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,623H,<img src='623H.png'></img>,15f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,j623S,<img src='j623S.png'></img>,15f,Ground Non-Jump Cancel,nan <br> 
+214K,<img src='214K.png'></img>,j623H,<img src='j623H.png'></img>,19f,Ground Non-Jump Cancel,nan <br> 
+214K,<img src='214K.png'></img>,236K,<img src='236K.png'></img>,14f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,j236K,<img src='j236K.png'></img>,16f,Ground Non-Jump Cancel,nan <br> 
+214K,<img src='214K.png'></img>,214K,<img src='214K.png'></img>,32f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,j214K,<img src='j214K.png'></img>,28f,Ground Non-Jump Cancel,nan <br> 
+214K,<img src='214K.png'></img>,j214[K],<img src='j214[K].png'></img>,36f,Ground Non-Jump Cancel,nan <br> 
+214K,<img src='214K.png'></img>,623K,<img src='623K.png'></img>,8f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,214S,<img src='214S.png'></img>,17f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,214[S],<img src='214[S].png'></img>,34f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,41236H,<img src='41236H.png'></img>,26f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,632146H,<img src='632146H.png'></img>,11f,Ground Non-Gatling,nan <br> 
+214K,<img src='214K.png'></img>,214214H,<img src='214214H.png'></img>,22f,Ground Non-Gatling,nan <br> 
+j214K,<img src='j214K.png'></img>,5P,<img src='5P.png'></img>,-12f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,5K,<img src='5K.png'></img>,-13f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,cS,<img src='cS.png'></img>,-9f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,fS,<img src='fS.png'></img>,-6f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,5H,<img src='5H.png'></img>,-5f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,2P,<img src='2P.png'></img>,-11f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,2K,<img src='2K.png'></img>,-10f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,2S,<img src='2S.png'></img>,-6f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,2H,<img src='2H.png'></img>,-5f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,jP,<img src='jP.png'></img>,106f,Air Non-Gatling,nan <br> 
+j214K,<img src='j214K.png'></img>,jK,<img src='jK.png'></img>,107f,Air Non-Gatling,nan <br> 
+j214K,<img src='j214K.png'></img>,jS,<img src='jS.png'></img>,111f,Air Non-Gatling,nan <br> 
+j214K,<img src='j214K.png'></img>,jH,<img src='jH.png'></img>,112f,Air Non-Gatling,nan <br> 
+j214K,<img src='j214K.png'></img>,jD,<img src='jD.png'></img>,110f,Air Non-Gatling,nan <br> 
+j214K,<img src='j214K.png'></img>,6P,<img src='6P.png'></img>,-7f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,6S,<img src='6S.png'></img>,-1f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,6H,<img src='6H.png'></img>,-7f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,2D,<img src='2D.png'></img>,-6f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,5D,<img src='5D.png'></img>,4f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,5[D],<img src='5[D].png'></img>,12f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,236P,<img src='236P.png'></img>,2f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,623S,<img src='623S.png'></img>,-7f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,623H,<img src='623H.png'></img>,-3f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,j623S,<img src='j623S.png'></img>,110f,Air Non-Gatling,nan <br> 
+j214K,<img src='j214K.png'></img>,j623H,<img src='j623H.png'></img>,114f,Air Non-Gatling,nan <br> 
+j214K,<img src='j214K.png'></img>,236K,<img src='236K.png'></img>,-4f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,j236K,<img src='j236K.png'></img>,111f,Air Non-Gatling,nan <br> 
+j214K,<img src='j214K.png'></img>,214K,<img src='214K.png'></img>,14f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,j214K,<img src='j214K.png'></img>,123f,Air Non-Gatling,nan <br> 
+j214K,<img src='j214K.png'></img>,j214[K],<img src='j214[K].png'></img>,131f,Air Non-Gatling,nan <br> 
+j214K,<img src='j214K.png'></img>,623K,<img src='623K.png'></img>,-10f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,214S,<img src='214S.png'></img>,-1f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,214[S],<img src='214[S].png'></img>,16f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,41236H,<img src='41236H.png'></img>,8f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,632146H,<img src='632146H.png'></img>,-7f,Jump-in,nan <br> 
+j214K,<img src='j214K.png'></img>,214214H,<img src='214214H.png'></img>,4f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,5P,<img src='5P.png'></img>,-12f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,5K,<img src='5K.png'></img>,-13f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,cS,<img src='cS.png'></img>,-9f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,fS,<img src='fS.png'></img>,-6f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,5H,<img src='5H.png'></img>,-5f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,2P,<img src='2P.png'></img>,-11f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,2K,<img src='2K.png'></img>,-10f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,2S,<img src='2S.png'></img>,-6f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,2H,<img src='2H.png'></img>,-5f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,jP,<img src='jP.png'></img>,106f,Air Non-Gatling,nan <br> 
+j214[K],<img src='j214[K].png'></img>,jK,<img src='jK.png'></img>,107f,Air Non-Gatling,nan <br> 
+j214[K],<img src='j214[K].png'></img>,jS,<img src='jS.png'></img>,111f,Air Non-Gatling,nan <br> 
+j214[K],<img src='j214[K].png'></img>,jH,<img src='jH.png'></img>,112f,Air Non-Gatling,nan <br> 
+j214[K],<img src='j214[K].png'></img>,jD,<img src='jD.png'></img>,110f,Air Non-Gatling,nan <br> 
+j214[K],<img src='j214[K].png'></img>,6P,<img src='6P.png'></img>,-7f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,6S,<img src='6S.png'></img>,-1f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,6H,<img src='6H.png'></img>,-7f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,2D,<img src='2D.png'></img>,-6f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,5D,<img src='5D.png'></img>,4f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,5[D],<img src='5[D].png'></img>,12f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,236P,<img src='236P.png'></img>,2f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,623S,<img src='623S.png'></img>,-7f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,623H,<img src='623H.png'></img>,-3f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,j623S,<img src='j623S.png'></img>,110f,Air Non-Gatling,nan <br> 
+j214[K],<img src='j214[K].png'></img>,j623H,<img src='j623H.png'></img>,114f,Air Non-Gatling,nan <br> 
+j214[K],<img src='j214[K].png'></img>,236K,<img src='236K.png'></img>,-4f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,j236K,<img src='j236K.png'></img>,111f,Air Non-Gatling,nan <br> 
+j214[K],<img src='j214[K].png'></img>,214K,<img src='214K.png'></img>,14f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,j214K,<img src='j214K.png'></img>,123f,Air Non-Gatling,nan <br> 
+j214[K],<img src='j214[K].png'></img>,j214[K],<img src='j214[K].png'></img>,131f,Air Non-Gatling,nan <br> 
+j214[K],<img src='j214[K].png'></img>,623K,<img src='623K.png'></img>,-10f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,214S,<img src='214S.png'></img>,-1f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,214[S],<img src='214[S].png'></img>,16f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,41236H,<img src='41236H.png'></img>,8f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,632146H,<img src='632146H.png'></img>,-7f,Jump-in,nan <br> 
+j214[K],<img src='j214[K].png'></img>,214214H,<img src='214214H.png'></img>,4f,Jump-in,nan <br> 
+214S,<img src='214S.png'></img>,5P,<img src='5P.png'></img>,21f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,5K,<img src='5K.png'></img>,20f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,cS,<img src='cS.png'></img>,24f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,fS,<img src='fS.png'></img>,27f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,5H,<img src='5H.png'></img>,28f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,2P,<img src='2P.png'></img>,22f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,2K,<img src='2K.png'></img>,23f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,2S,<img src='2S.png'></img>,27f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,2H,<img src='2H.png'></img>,28f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,jP,<img src='jP.png'></img>,26f,Ground Non-Jump Cancel,nan <br> 
+214S,<img src='214S.png'></img>,jK,<img src='jK.png'></img>,27f,Ground Non-Jump Cancel,nan <br> 
+214S,<img src='214S.png'></img>,jS,<img src='jS.png'></img>,31f,Ground Non-Jump Cancel,nan <br> 
+214S,<img src='214S.png'></img>,jH,<img src='jH.png'></img>,32f,Ground Non-Jump Cancel,nan <br> 
+214S,<img src='214S.png'></img>,jD,<img src='jD.png'></img>,30f,Ground Non-Jump Cancel,nan <br> 
+214S,<img src='214S.png'></img>,6P,<img src='6P.png'></img>,26f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,6S,<img src='6S.png'></img>,32f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,6H,<img src='6H.png'></img>,26f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,2D,<img src='2D.png'></img>,27f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,5D,<img src='5D.png'></img>,37f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,5[D],<img src='5[D].png'></img>,45f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,236P,<img src='236P.png'></img>,35f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,623S,<img src='623S.png'></img>,26f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,623H,<img src='623H.png'></img>,30f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,j623S,<img src='j623S.png'></img>,30f,Ground Non-Jump Cancel,nan <br> 
+214S,<img src='214S.png'></img>,j623H,<img src='j623H.png'></img>,34f,Ground Non-Jump Cancel,nan <br> 
+214S,<img src='214S.png'></img>,236K,<img src='236K.png'></img>,29f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,j236K,<img src='j236K.png'></img>,31f,Ground Non-Jump Cancel,nan <br> 
+214S,<img src='214S.png'></img>,214K,<img src='214K.png'></img>,47f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,j214K,<img src='j214K.png'></img>,43f,Ground Non-Jump Cancel,nan <br> 
+214S,<img src='214S.png'></img>,j214[K],<img src='j214[K].png'></img>,51f,Ground Non-Jump Cancel,nan <br> 
+214S,<img src='214S.png'></img>,623K,<img src='623K.png'></img>,23f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,214S,<img src='214S.png'></img>,32f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,214[S],<img src='214[S].png'></img>,49f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,41236H,<img src='41236H.png'></img>,41f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,632146H,<img src='632146H.png'></img>,26f,Ground Non-Gatling,nan <br> 
+214S,<img src='214S.png'></img>,214214H,<img src='214214H.png'></img>,37f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,5P,<img src='5P.png'></img>,21f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,5K,<img src='5K.png'></img>,20f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,cS,<img src='cS.png'></img>,24f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,fS,<img src='fS.png'></img>,27f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,5H,<img src='5H.png'></img>,28f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,2P,<img src='2P.png'></img>,22f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,2K,<img src='2K.png'></img>,23f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,2S,<img src='2S.png'></img>,27f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,2H,<img src='2H.png'></img>,28f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,jP,<img src='jP.png'></img>,26f,Ground Non-Jump Cancel,nan <br> 
+214[S],<img src='214[S].png'></img>,jK,<img src='jK.png'></img>,27f,Ground Non-Jump Cancel,nan <br> 
+214[S],<img src='214[S].png'></img>,jS,<img src='jS.png'></img>,31f,Ground Non-Jump Cancel,nan <br> 
+214[S],<img src='214[S].png'></img>,jH,<img src='jH.png'></img>,32f,Ground Non-Jump Cancel,nan <br> 
+214[S],<img src='214[S].png'></img>,jD,<img src='jD.png'></img>,30f,Ground Non-Jump Cancel,nan <br> 
+214[S],<img src='214[S].png'></img>,6P,<img src='6P.png'></img>,26f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,6S,<img src='6S.png'></img>,32f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,6H,<img src='6H.png'></img>,26f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,2D,<img src='2D.png'></img>,27f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,5D,<img src='5D.png'></img>,37f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,5[D],<img src='5[D].png'></img>,45f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,236P,<img src='236P.png'></img>,35f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,623S,<img src='623S.png'></img>,26f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,623H,<img src='623H.png'></img>,30f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,j623S,<img src='j623S.png'></img>,30f,Ground Non-Jump Cancel,nan <br> 
+214[S],<img src='214[S].png'></img>,j623H,<img src='j623H.png'></img>,34f,Ground Non-Jump Cancel,nan <br> 
+214[S],<img src='214[S].png'></img>,236K,<img src='236K.png'></img>,29f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,j236K,<img src='j236K.png'></img>,31f,Ground Non-Jump Cancel,nan <br> 
+214[S],<img src='214[S].png'></img>,214K,<img src='214K.png'></img>,47f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,j214K,<img src='j214K.png'></img>,43f,Ground Non-Jump Cancel,nan <br> 
+214[S],<img src='214[S].png'></img>,j214[K],<img src='j214[K].png'></img>,51f,Ground Non-Jump Cancel,nan <br> 
+214[S],<img src='214[S].png'></img>,623K,<img src='623K.png'></img>,23f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,214S,<img src='214S.png'></img>,32f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,214[S],<img src='214[S].png'></img>,49f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,41236H,<img src='41236H.png'></img>,41f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,632146H,<img src='632146H.png'></img>,26f,Ground Non-Gatling,nan <br> 
+214[S],<img src='214[S].png'></img>,214214H,<img src='214214H.png'></img>,37f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,5P,<img src='5P.png'></img>,-7f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,5K,<img src='5K.png'></img>,-8f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,cS,<img src='cS.png'></img>,-4f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,fS,<img src='fS.png'></img>,-1f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,5H,<img src='5H.png'></img>,0f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,2P,<img src='2P.png'></img>,-6f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,2K,<img src='2K.png'></img>,-5f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,2S,<img src='2S.png'></img>,-1f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,2H,<img src='2H.png'></img>,0f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,jP,<img src='jP.png'></img>,-2f,Ground Non-Jump Cancel,nan <br> 
+41236H,<img src='41236H.png'></img>,jK,<img src='jK.png'></img>,-1f,Ground Non-Jump Cancel,nan <br> 
+41236H,<img src='41236H.png'></img>,jS,<img src='jS.png'></img>,3f,Ground Non-Jump Cancel,nan <br> 
+41236H,<img src='41236H.png'></img>,jH,<img src='jH.png'></img>,4f,Ground Non-Jump Cancel,nan <br> 
+41236H,<img src='41236H.png'></img>,jD,<img src='jD.png'></img>,2f,Ground Non-Jump Cancel,nan <br> 
+41236H,<img src='41236H.png'></img>,6P,<img src='6P.png'></img>,-2f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,6S,<img src='6S.png'></img>,4f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,6H,<img src='6H.png'></img>,-2f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,2D,<img src='2D.png'></img>,-1f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,5D,<img src='5D.png'></img>,9f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,5[D],<img src='5[D].png'></img>,17f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,236P,<img src='236P.png'></img>,7f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,623S,<img src='623S.png'></img>,-2f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,623H,<img src='623H.png'></img>,2f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,j623S,<img src='j623S.png'></img>,2f,Ground Non-Jump Cancel,nan <br> 
+41236H,<img src='41236H.png'></img>,j623H,<img src='j623H.png'></img>,6f,Ground Non-Jump Cancel,nan <br> 
+41236H,<img src='41236H.png'></img>,236K,<img src='236K.png'></img>,1f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,j236K,<img src='j236K.png'></img>,3f,Ground Non-Jump Cancel,nan <br> 
+41236H,<img src='41236H.png'></img>,214K,<img src='214K.png'></img>,19f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,j214K,<img src='j214K.png'></img>,15f,Ground Non-Jump Cancel,nan <br> 
+41236H,<img src='41236H.png'></img>,j214[K],<img src='j214[K].png'></img>,23f,Ground Non-Jump Cancel,nan <br> 
+41236H,<img src='41236H.png'></img>,623K,<img src='623K.png'></img>,-5f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,214S,<img src='214S.png'></img>,4f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,214[S],<img src='214[S].png'></img>,21f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,41236H,<img src='41236H.png'></img>,13f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,632146H,<img src='632146H.png'></img>,-2f,Ground Non-Gatling,nan <br> 
+41236H,<img src='41236H.png'></img>,214214H,<img src='214214H.png'></img>,9f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,5P,<img src='5P.png'></img>,48f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,5K,<img src='5K.png'></img>,47f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,cS,<img src='cS.png'></img>,51f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,fS,<img src='fS.png'></img>,54f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,5H,<img src='5H.png'></img>,55f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,2P,<img src='2P.png'></img>,49f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,2K,<img src='2K.png'></img>,50f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,2S,<img src='2S.png'></img>,54f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,2H,<img src='2H.png'></img>,55f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,jP,<img src='jP.png'></img>,53f,Ground Non-Jump Cancel,nan <br> 
+632146H,<img src='632146H.png'></img>,jK,<img src='jK.png'></img>,54f,Ground Non-Jump Cancel,nan <br> 
+632146H,<img src='632146H.png'></img>,jS,<img src='jS.png'></img>,58f,Ground Non-Jump Cancel,nan <br> 
+632146H,<img src='632146H.png'></img>,jH,<img src='jH.png'></img>,59f,Ground Non-Jump Cancel,nan <br> 
+632146H,<img src='632146H.png'></img>,jD,<img src='jD.png'></img>,57f,Ground Non-Jump Cancel,nan <br> 
+632146H,<img src='632146H.png'></img>,6P,<img src='6P.png'></img>,53f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,6S,<img src='6S.png'></img>,59f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,6H,<img src='6H.png'></img>,53f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,2D,<img src='2D.png'></img>,54f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,5D,<img src='5D.png'></img>,64f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,5[D],<img src='5[D].png'></img>,72f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,236P,<img src='236P.png'></img>,62f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,623S,<img src='623S.png'></img>,53f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,623H,<img src='623H.png'></img>,57f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,j623S,<img src='j623S.png'></img>,57f,Ground Non-Jump Cancel,nan <br> 
+632146H,<img src='632146H.png'></img>,j623H,<img src='j623H.png'></img>,61f,Ground Non-Jump Cancel,nan <br> 
+632146H,<img src='632146H.png'></img>,236K,<img src='236K.png'></img>,56f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,j236K,<img src='j236K.png'></img>,58f,Ground Non-Jump Cancel,nan <br> 
+632146H,<img src='632146H.png'></img>,214K,<img src='214K.png'></img>,74f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,j214K,<img src='j214K.png'></img>,70f,Ground Non-Jump Cancel,nan <br> 
+632146H,<img src='632146H.png'></img>,j214[K],<img src='j214[K].png'></img>,78f,Ground Non-Jump Cancel,nan <br> 
+632146H,<img src='632146H.png'></img>,623K,<img src='623K.png'></img>,50f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,214S,<img src='214S.png'></img>,59f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,214[S],<img src='214[S].png'></img>,76f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,41236H,<img src='41236H.png'></img>,68f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,632146H,<img src='632146H.png'></img>,53f,Ground Non-Gatling,nan <br> 
+632146H,<img src='632146H.png'></img>,214214H,<img src='214214H.png'></img>,64f,Ground Non-Gatling,nan <br> 

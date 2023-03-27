@@ -1,0 +1,31 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/4/2/10/-2/0///
+5K/All/7/5/10/-3/1///
+cS/All/7/6/10/+1/3///
+fS/All/9/6/15/-7/2///
+5H/All/13/2/25/-8/4///
+2P/All/6/3/9/-2/0///
+2K/Low/6/5/10/-3/1///
+2S/All/11/3/19/-8/2///
+2H/Low/17/6/26/-13/4///
+jP/High/5/3/13//0///
+jK/High/7/8/12//1///
+jS/High/8/7/19//2///
+jH/High/15/Until Landing/Landing+3//2///
+jD/High/12/3/26//3///
+6P/All/9/5/19/-10/2//1-3f Upper Body 4-13f Above Knees/
+6K/All/12/9/10/-5/2///
+6H/All/20/8/24/-13/4///
+2D/Low/10/63/21/-10/2///
+5D/High/20/3/26/-15/2///
+5[D]/High/28/3/26/-10/4///
+236K/All/15/3 (13) 13/5/-3/3 [0]/Tatami Gaeshi//
+j236K/All/20/Until Landing/Landing+7//2 [0]/Air Tatami Gaeshi//
+41236S/All/31/11/16/+2/4/S Kabari//
+41236H/All/18/11/19/-3/4/H Kabari//
+41236H~H/All/11 [23]/3/14/-7/3/Kabari Followup//
+j236S/High/9/12/Landing+7/-14 (TK)/2/Youzansen//
+236P//1/7/32///Hiiragi/1~7 Strike/
+236236S/All/8+1/3(20)3(36)3/48/-32/4/Tsurane Sanzu-watashi/1~10 Full/
+214214P/All (Guard Crush)/8+3///+5/4/Kenjyu//
+j214214P/All (Guard Crush)/11+3////4/Air Kenjyu//

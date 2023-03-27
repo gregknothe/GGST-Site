@@ -1,0 +1,50 @@
+Input/Guard/Startup/Active/Recovery/On-Block/Level/Name/Notes/Gatling
+5P/All/5/4/7/-1/0//none/
+5K/Low/7/8/6/-2/1//none/
+cS/All/7/6/10/+1/3//none/
+fS/All/12/6/13/-5/2//none/
+5H/All/14/6/21/-8/4//none/
+2P/All/5/4/8/-2/0//none/
+2K/Low/6/4/10/-2/1//none/
+2S/Low/10/2/20/-8/2//none/
+2H/All/11/14/28/-13/34//none/
+jP/High/6/3/9//0//none/
+jK/High/7/4/8//1//none/
+jS/High/7/3/21//2//none/
+jH/High/13/4/23/+5 (IAD)/2//none/
+jD/All/13/6/15//2//none/
+6P/All/9/5/17/-8/2//1-3f Upper Body 4-13f Above Knees/
+6K/All/25/2/11/+4/3//none/
+6H/All/15/4/20/-7/3//none/
+2D/Low/10/6/18/-10/2//none/
+5D/High/20/4/25/-15/2//none/
+5[D]/High/28/4/25/-10/2//none/
+236S/All/13/Until Hit/Total 46/-15/2/Stun Edge/none/
+DI 236S/All/13/Until Hit/Total 46/-11/2/DI Stun Edge/none/
+236H/All/39/Until Hit/Total 62/+22 [+25]/4/Charged Stun Edge/none/
+DI 236H/All/39/Until Hit/Total 62/+45/4/DI Charged Stun Edge/none/
+j236S/All/21/Until Hit/Until Landing+10//2/Aerial S Stun Edge/none/
+DI j236S/All/21/Until Hit/Until Landing+10//2/DI Aerial S Stun Edge/none/
+j236H/All/21/Until Hit/Until Landing+10//2/Aerial H Stun Edge/none/
+DI j236H/All/21/Until Hit/Until Landing+10//2/DI Aerial H Stun Edge/none/
+623S/All/11/4/43/-33/2 [4]/S Vapor Thrust/1-14f Strike/
+DI 623S/All/11/4/43/-26/4/DI S Vapor Thrust/1-14f Strike/
+623H/All/13/8/44/-38/2 [4]/H Vapor Thrust/1-16f Strike/
+DI 623H/All/13/6/39/-22/4/DI H Vapor Thrust/1-18f Strike/
+j623S/All/11/4/Until Landing+12//2 [4]/Air S Vapor Thrust/1-14f Strike/
+DI j623S/All/11/4/Until Landing+12//4/DI Air S Vapor Thrust/1-14f Strike/
+j623H/All/13/8/Until Landing+12//2 [4]/Air H Vapor Thrust/1-16f Strike/
+DI j623H/All/13/6/Until Landing+12//4/DI Air H Vapor Thrust/1-18f Strike/
+236K/Low, All/5/12(7)3/26/-15 [-10]/2 [2, 4]/Stun Dipper/1-4f Upper Body 5-16f Above Knees/
+DI 236K/Low, All/5/12(7)3/26/-10/2, 4, 4/DI Stun Dipper/1-4f Upper Body 5-16f Above Knees/
+214K/All/24/11/6/-2~+6 [+5~+12]/2,1 [4]/Foudre Arc/10-11f Foot 12-28f Below Waist/
+DI 214K/All/24/326/6/+7~+12/4/DI Foudre Arc/10-11f Foot 12-28f Below Waist/
+214S/All/14/3/25/-8 [-6]/3 [4]/Dire Eclat/none/
+DI 214S/All/14/3/25/-6/4/DI Dire Eclat/none/
+632146H/All/8+1/3×4(20)2/99/-82/2×4, 4/Ride the Lightning/1-10f All/
+DI 632146H/All/8+1/2×8(20)2×3/99/-79/2×8, 4×3/DI Ride the Lightning/1-15f All/
+j632146H/All/8+1/3×4(20)2/99//2×4, 4/Air Ride the Lightning/1-10f All/
+DI j632146H/All/8+1/2×8(20)2×3/99//2×8, 4×3/DI Air Ride the Lightning/1-15f All/
+236236P/All [All (Guard Crush)]/4+3/Until Hit/32/+10 [+26]/4×5/Sacred Edge/none/
+DI 236236P/All (Guard Crush)/4+3/Until Hit/32/+32/4×8/DI Sacred Edge/none/
+214214H/All/11+1/5/25/+4//Dragon Install/none/
