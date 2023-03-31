@@ -86,7 +86,12 @@ def addiontalEntry(charName, moveName, active, recovery, onBlock, level, gatling
     print(moveName+" has been added to "+charName+"'s table")
     return 
 
-
+def rekkaDeletion(charName, rekkaStarter, rekkaEnders=[]):
+    df = pd.read_csv("characterPages/"+charName+"/"+charName+"DataTable.txt", sep=",")
+    for x in rekkaEnders:
+        df.drop(df.index[(df["Input2"]==x) & (df["Input1"]!=rekkaStarter)])
+    df.to_csv("characterPages/"+charName+"/"+charName+"DataTable.txt", sep=",", index=False)
+    return
 
 #print(frameTrapCalc("Sol_Badguy","5P",1,-2,5,9,["5P","2P","6P","236P","623S","623H","236K","214K","623K","632146H"]))
 #print(frameTrapCalc("Sol_Badguy","cS",4,3,6,10,["6P","fS","2S","6S","5H","2H","6H","5D","5[D]","2D","236P","623S","623H","236K","214K","623K","632146H","jump"]))
